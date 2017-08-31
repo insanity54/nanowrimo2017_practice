@@ -25,6 +25,8 @@ Body type reference -- http://www.project-imas.com/wiki/Kanako_Mimura
 
 Rich girl with long brown hair and blue eyes. Friends with Shizuma Miyu.
 Body type reference -- http://www.project-imas.com/wiki/Uzuki_Shimamura
+Marth calls her a cat girl because of the time he broke Aldo sensei's projection by imagining Aoi as a naked cat girl.
+
 
 
 
@@ -37,6 +39,9 @@ Skinny dude with a choker who wears tight pants and acts dramatically. 5th pilla
 
 Character flaw: doesn't think things through, shoots first asks questions later. Jumps at any opportunity to kill.
 
+Physical reference: 
+
+
 
 ## Tsubasa, Hinata (Tsubasa-sensei)
 ### 南の
@@ -45,6 +50,7 @@ Character flaw: doesn't think things through, shoots first asks questions later.
 
 Teacher at St. Ezreal's Academy. Second pillar of St. Ezreal's. "Rules are rules." follows them to a fault. The person who keeps Aldo in check. Had an incident in the past where her loved one was taken from her due to someone abusing Nemesis of Time.
 
+Physical reference http://konosuba.wikia.com/wiki/Darkness
 
 
 
@@ -56,8 +62,35 @@ Teacher at St. Ezreal's Academy. Second pillar of St. Ezreal's. "Rules are rules
 
 First pillar of St. Ezreal's. Because he's Introverted, he usually only shows his Astral element which is a pair of firey eyes. Few students have seen him, and he mostly keeps to the Astral realm inside the Administration building.
 
+Physical reference: https://myanimelist.net/character/25483/Ryuu
 
 
+
+## Sato, Hanna
+### 里花
+#### ESFJ
+#### "The Provider" aka "That Useless Bitch"
+
+Dormitory manager. 4th year Esper. Roomate of  Miyagi Riko. Sporty type
+
+Physical Reference: https://myanimelist.net/character/1978/Miyuki_Rokujou
+
+
+
+## Miyagi, Riko
+### 宮城リコ
+#### ???
+#### Bakkadere
+
+Roomate of Sato Hanna. Clumsy af. Long pink hair, fav color yellow. Sewing is the only thing she's good at.
+
+
+
+
+## Adish
+#### Joyous head chef
+
+He's just the joyous, fat head chef and that's about it.
 
 
 # Personality charts
