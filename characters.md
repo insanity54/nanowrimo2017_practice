@@ -19,7 +19,7 @@ Body type reference -- http://www.project-imas.com/wiki/Kanako_Mimura
 
 ## Tanaka, Aoi
 ### 田中　青い
-#### Tsundere
+#### Tsundere / Himedere
 #### Extraverted Sensing Thinking Judging "The supervisor" aka "Annoying tsundere"
 
 
@@ -70,11 +70,13 @@ Physical reference: https://myanimelist.net/character/25483/Ryuu
 ### 里花
 #### ESFJ
 #### "The Provider" aka "That Useless Bitch"
+#### Yandere
 
-Dormitory manager. 4th year Esper. Roomate of  Miyagi Riko. Sporty type
+Dormitory manager. 4th year Esper. Roomate of  Miyagi Riko. Sporty type. short blue hair, amber eyes. Stickler for the rules. Stoic demeanor
 
 Physical Reference: https://myanimelist.net/character/1978/Miyuki_Rokujou
 
+Character flaw, secretly in love with love. Wants to be loved by someone. Falls in love with Marth when he showed concern for Miyagi Riko (jealous). Flattered by Marth when he accidentally heated her up while she was jogging. Didn’t report his assault even though she’s a stickler for the rules. Not a tsundere, but 
 
 
 ## Miyagi, Riko

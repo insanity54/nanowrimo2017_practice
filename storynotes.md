@@ -32,3 +32,5 @@ Marth confronts the girl and they duel in the courtyard on unfair terms.
 St. Ezreal is the ancient mage who brought peace between Espers and Mages, the academy formed in his honor.
 
 Every Esper has a "thing" (name pending) The "thing" is like the Esper's cutie mark(tm), something that defines that Esper and sets them apart. The first "thing" Marth comes across is the fiery eyes in the administration building
+
+The evil esper who was using Marth as a proxy had to hide their proxy presence within Marth's mind. They bound the proxy to a ever-present thought in Marth's mind, his attraction to women. Marth has to remove the proxy at some point, and being impatient as he is, he completely removes his attraction to women, thereby removing the proxy. Shit gets awkward as Marth doesn't react to girl's advancements. Maybe he goes gay for a time?? A side effect of the proxy was that Marth's projections would unintentionally target girls he was thinking of.
