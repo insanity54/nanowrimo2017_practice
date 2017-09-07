@@ -37,3 +37,12 @@ St. Ezreal is the ancient mage who brought peace between Espers and Mages, the a
 Every Esper has a "thing" (name pending) The "thing" is like the Esper's cutie mark(tm), something that defines that Esper and sets them apart. The first "thing" Marth comes across is the fiery eyes in the administration building
 
 The evil esper who was using Marth as a proxy had to hide their proxy presence within Marth's mind. They bound the proxy to a ever-present thought in Marth's mind, his attraction to women. Marth has to remove the proxy at some point, and being impatient as he is, he completely removes his attraction to women, thereby removing the proxy. Shit gets awkward as Marth doesn't react to girl's advancements. Maybe he goes gay for a time?? A side effect of the proxy was that Marth's projections would unintentionally target girls he was thinking of.
+
+### Marth's affinity for women (Astral Realm)
+
+the features quickly changed from natural to man made, opening up to a grand hallway with red carpets. Instead of stalactites, chandeliers hung down from Marble ceilings. The walls and floors were marble too, and the hallway extended further than Marth could even see. Marble walls were plastered with erotic paintings that made Marth drool. A never ending hallway featuring images of lustful women. Was this heaven? 
+
+
+## Story Problems
+
+* Astral usage is inconsistent. The admin building for instance. Who's reality is doing what? Is the interior part of the multiverse or is it in someone's astral realm?
