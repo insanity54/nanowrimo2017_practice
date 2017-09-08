@@ -12,8 +12,10 @@
 * Marth goes to admin building where First pillar of St. Ezreal's stays Marth's execution on condition.
 * Marth must live on campus and study at the school, proving his innocence.
 * Actually, Marth doesn't get to study. He gets assigned cleaning duties in the kitchen.
-* The next day, Marth gets assigned to mining duties in another plain accessible through the Admin building.
+* The next day, Marth gets assigned to mining duties in another plane accessible through the Admin building.
 * Marth experiences an augmented astral projection where he is empowered by Admirite, and discovers a flaw in his Astral realm (evil Esper's proxy)
+* Marth confides with Tsubasa-sensei about the flaw in his Astral realm, and her suspicion that another esper was responsible for Nemesis of Time is confirmed. (reason why she didn't kill Marth right away)
+
 
 
 ## Story Plot
