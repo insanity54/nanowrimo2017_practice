@@ -1,3 +1,6 @@
+# Character Notes (spoiler alert)
+
+
 ## Watanabe, Marth
 ### Harem lord
 #### Traits
