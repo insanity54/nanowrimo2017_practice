@@ -55,6 +55,7 @@ Teacher at St. Ezreal's Academy. Second pillar of St. Ezreal's. "Rules are rules
 
 Physical reference http://konosuba.wikia.com/wiki/Darkness
 
+Pretends to be a Sado Masochist when alone with Marth as cover for the fact that she can't hide her feelings for him.
 
 
 
