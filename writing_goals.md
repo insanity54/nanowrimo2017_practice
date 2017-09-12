@@ -2,8 +2,19 @@
 
 ## 5 Day streak
 
-* Ice cream
+* [ ] Ice cream
 
-10 Day streak
+## 10 Day streak
 
-* 
+* [ ] Ice cream
+
+## 15 Day streak
+
+* [ ] Ice cream
+* [ ] Tell yo friends?
+
+## 30 Day streak
+
+* [ ] Ice cream
+* [ ] Tell yo friends!
+* [ ] Your own novel!
