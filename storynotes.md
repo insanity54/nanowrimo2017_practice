@@ -47,6 +47,21 @@ Tsubasa-sensei sends Marth to the mine whenever she doesn't want to supervise hi
 the features quickly changed from natural to man made, opening up to a grand hallway with red carpets. Instead of stalactites, chandeliers hung down from Marble ceilings. The walls and floors were marble too, and the hallway extended further than Marth could even see. Marble walls were plastered with erotic paintings that made Marth drool. A never ending hallway featuring images of lustful women. Was this heaven? 
 
 
+### Marth the poser
+
+barely avoided detection by posing as an absent student. This cover would only last for so long, but Marth was happy to be a student here, if only for a day.
+
+
+### Marth’s daydream
+
+Tsubasa-sensei's plan was for me to work in the mine all week. Her plans fell through when I finished that work in one day! She's busy with school today, so I'm as free as a bird! Marth quickly cast Physical Manifestation and created a suit of armor for himself. He trotted into school and found Shiro Neko. "Shiro Neko!" She looked up and puked.
+
+"Do you got a hair ball, Shiro-Neko?" Marth pulled out his hankerchief and wiped ShiroNeko's face, then patted her on the head. "there, there, cutie pie, it'll be ok". Marth knelt down and gently head ShiroNeko's head as she lay in his lap. 
+
+A look of overjoyement was on Marth's face as ShiroNeko quietly napped there.
+
+
+
 ## Story Problems
 
 * Astral usage is inconsistent. The admin building for instance. Who's reality is doing what? Is the interior part of the multiverse or is it in someone's astral realm?

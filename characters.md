@@ -9,6 +9,12 @@
   * Stubborn
   * Blames others before considering himself
 
+##### Projections
+
+* HYPER DRAGON EYE (Remote View)
+* Resonant Wave (Heat up water)
+* Atomic Relegation (create pickaxe)
+
 
 ## Shizuma, Miyu
 ### しずま みゆ
