@@ -1,7 +1,5 @@
 # nanowrimo2017_practice
 
-Practicing for NanoWriMo 2017 https://nanowrimo.org/
-
-NanoWriMo is a challenge to write a 50,000 word novel in 1 month. This is my practice for that event. The main reason I'm doing this practice is to see what kind of effort would be required to write a novel in one month. My idea is that I would write 1,666 words every day for 30 days. That many words takes me about 3-4 hours.
+[NanoWriMo](https://nanowrimo.org/) is a challenge to write a 50,000 word novel in 1 month. This was my practice for that event, to see what the daily workload would be to write 50,000 words in a month. It turned out to be too much for me to handle, while keeping up with work and my other hobbies. Instead, I've decided to write 50,000 words at my own pace, and not participate in the NanoWriMo November challenge.
 
 Each section (example: 001.md) contains approximately 1,666 words. If I can write 30 of these sections, I will have written a novel! (Life achievement unlocked!)

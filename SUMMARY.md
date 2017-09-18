@@ -10,6 +10,7 @@
 * [Day 7](007.md)
 * [Day 8](008.md)
 * [Day 9](009.md)
+* [Day 10](010.md)
 * [Story Notes](storynotes.md)
 * [Character Notes](characters.md)
 
