@@ -4,4 +4,4 @@
 
 Each section (example: 001.md) contains approximately 1,666 words. If I can write 30 of these sections, I will have written a novel! (Life achievement unlocked!)
 
-To read the novel, check out https://insanity54.gitbooks.io/nanowrimo/content/
+To read the novel as it progresses, check the book out on [gitbook](https://insanity54.gitbooks.io/nanowrimo/content/) Comments can be written in the margins. Constructive critisism is appreciated!
