@@ -18,12 +18,12 @@
 * Marth gets a day off and goes to class
 * Marth cant find a class so he uses Remote View, gets caught by Aldo
 * Aldo & Marth fight, Aldo tries to fux with Marth's head, but Marth has a barrier set up by Tsubasa sensei.
-** Aldo character development. Explain why Tsubasa-sensei told Aldo-sensei that he more than anyone should know how St. Ezreal's does things.
-*** Aldo has a dark past where he was experimented on & used as a weapon. Tsubasa-sensei saved Aldo, but Aldo is mentally unstable sometimes and likes to kill ppl. Aldo is strong with physical/Astral weaponry but not mentally.
-** Aldo gets his head fux'd by Marth's barrier, which turns Aldo's distaste for Marth into an attraction to Marth
-** The barrier was meant to conter-attack then attract the evil esper to Marth once the Evil esper tried to make any changes to Marth's Astral realm.
-*** When the evil esper was attracted, Tsubasa-sensei would be able to catch them.
-*** Aldo fucked up Tsubasa sensei's trap
+  * Aldo character development. Explain why Tsubasa-sensei told Aldo-sensei that he more than anyone should know how St. Ezreal's does things.
+    * Aldo has a dark past where he was experimented on & used as a weapon. Tsubasa-sensei saved Aldo, but Aldo is mentally unstable sometimes and likes to kill ppl. Aldo is strong with physical/Astral weaponry but not mentally.
+  * Aldo gets his head fux'd by Marth's barrier, which turns Aldo's distaste for Marth into an attraction to Marth
+    * The barrier was meant to conter-attack then attract the evil esper to Marth once the Evil esper tried to make any changes to Marth's Astral realm.
+      * When the evil esper was attracted, Tsubasa-sensei would be able to catch them.
+      * Aldo fucked up Tsubasa sensei's trap
 * Tsubasa-sensei sends Marth to the mine cus she's busy and shit
 * Marth gets bored/fed up during work and tries to remove the proxy
 * Marth accidentally removes his affinity for women (see notes below)
@@ -33,8 +33,8 @@
 * evil esper strikes again
 * Kaito warns Tsubasa that Marth's situation needs to be resolved soon
 * Tsubasa sets up another trap, intentionally leaks info to Marth, hoping evil esper hears.
-** gives marth some freedom so marth will Astral project
-* 
+  * gives marth some freedom so marth will Astral project
+
 
 
 ## Story Plot
