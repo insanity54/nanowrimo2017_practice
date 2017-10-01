@@ -80,6 +80,23 @@ Tsubasa-sensei's plan was for me to work in the mine all week. Her plans fell th
 A look of overjoyement was on Marth's face as ShiroNeko quietly napped there.
 
 
+### Place cards
+
+The user of a place card can optionally draw their affiliation on the back of the card. Teachers at St. Ezreal's use the Academy's emblem, which cannot be easily reproduced due to it's atomically intricate detail. Some evil esper could perhaps leave behind a place card with no emblem on the back, starting an episode of speculation and fear regarding it's origins among students and staff.
+
+* "They can carried, exchanged, or used by any holder."
+* "A projection is 'placed' into the card?" \n "Yes you dumbass." [thanks for explaining the name to the audience]
+
+
+### Aldo in the infirmirly
+
+"The doctor wasted no time and immediately started cutting Aldo's tattered clothes from his body using a sharp pair of scissors. Marth looked away and walked towards the door"
+
+
+
+
+
+
 
 ## Story Problems
 

@@ -110,3 +110,10 @@ He's just the joyous, fat head chef and that's about it.
 ## MBTI
 
 https://s-media-cache-ak0.pinimg.com/originals/27/a8/71/27a87113b89574336dcbe9e4891973ef.jpg
+
+
+
+## Yoshida, Sana　(吉田真)
+#### Bubbly Doctor
+
+pink hair, glasses, short but strong, never stops smiling.
