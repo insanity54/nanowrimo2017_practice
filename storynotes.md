@@ -22,6 +22,7 @@
     * Aldo has a dark past where he was experimented on & used as a weapon. Tsubasa-sensei saved Aldo, but Aldo is mentally unstable sometimes and likes to kill ppl. Aldo is strong with physical/Astral weaponry but not mentally.
     * Aldo is strapped to a chair and forcely administered a massive dose of Esperin
     * Aldo is transported to a battlefield and kills lots of ppl
+    * Aldo is transformed to a hysterical killing maniac through trauma and abuse
     * Aldo is saved by a young Tsubasa sensei
   * Aldo gets his head fux'd by Marth's barrier, which turns Aldo's distaste for Marth into an attraction to Marth
     * The barrier was meant to conter-attack then attract the evil esper to Marth once the Evil esper tried to make any changes to Marth's Astral realm.
@@ -94,6 +95,26 @@ The user of a place card can optionally draw their affiliation on the back of th
 ### Aldo in the infirmirly
 
 "The doctor wasted no time and immediately started cutting Aldo's tattered clothes from his body using a sharp pair of scissors. Marth looked away and walked towards the door"
+
+
+
+## Astral Projections List
+
+### Remote View
+
+A.K.A. HYPER-DRAGON-EYE
+
+Allows the projector to see/feel things that are physically distant
+
+
+### Ionic Shock
+
+A spherical blast of electricity. Multiple uses from static shock pranks to tazer-like nervous system interruption to electrocution executions.
+
+
+### Pysical Translation
+
+Teleportation. First mention was by Masked Esper on Subject 34 (Aldo)
 
 
 
