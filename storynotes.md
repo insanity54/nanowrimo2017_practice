@@ -20,6 +20,9 @@
 * Aldo & Marth fight, Aldo tries to fux with Marth's head, but Marth has a barrier set up by Tsubasa sensei.
   * Aldo character development. Explain why Tsubasa-sensei told Aldo-sensei that he more than anyone should know how St. Ezreal's does things.
     * Aldo has a dark past where he was experimented on & used as a weapon. Tsubasa-sensei saved Aldo, but Aldo is mentally unstable sometimes and likes to kill ppl. Aldo is strong with physical/Astral weaponry but not mentally.
+    * Aldo is strapped to a chair and forcely administered a massive dose of Esperin
+    * Aldo is transported to a battlefield and kills lots of ppl
+    * Aldo is saved by a young Tsubasa sensei
   * Aldo gets his head fux'd by Marth's barrier, which turns Aldo's distaste for Marth into an attraction to Marth
     * The barrier was meant to conter-attack then attract the evil esper to Marth once the Evil esper tried to make any changes to Marth's Astral realm.
       * When the evil esper was attracted, Tsubasa-sensei would be able to catch them.
@@ -75,7 +78,7 @@ barely avoided detection by posing as an absent student. This cover would only l
 
 Tsubasa-sensei's plan was for me to work in the mine all week. Her plans fell through when I finished that work in one day! She's busy with school today, so I'm as free as a bird! Marth quickly cast Physical Manifestation and created a suit of armor for himself. He trotted into school and found Shiro Neko. "Shiro Neko!" She looked up and puked.
 
-"Do you got a hair ball, Shiro-Neko?" Marth pulled out his hankerchief and wiped ShiroNeko's face, then patted her on the head. "there, there, cutie pie, it'll be ok". Marth knelt down and gently head ShiroNeko's head as she lay in his lap. 
+"Do you got a hair ball, Shiro-Neko?" Marth pulled out his hankerchief and wiped ShiroNeko's face, then patted her on the head. "there, there, cutie pie, it'll be ok". Marth knelt down and gently pet ShiroNeko's head as she lay in his lap. 
 
 A look of overjoyement was on Marth's face as ShiroNeko quietly napped there.
 
@@ -101,3 +104,4 @@ The user of a place card can optionally draw their affiliation on the back of th
 ## Story Problems
 
 * Astral usage is inconsistent. The admin building for instance. Who's reality is doing what? Is the interior part of the multiverse or is it in someone's astral realm?
+* Yoshida-sensei is supposed to be super casual, but she never said her first name when she introduced herself.
