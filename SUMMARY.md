@@ -16,6 +16,7 @@
 * [Day 13](013.md)
 * [Day 14](014.md)
 * [Day 15](015.md)
+* [Day 16](016.md)
 * [Story Notes](storynotes.md)
 * [Character Notes](characters.md)
 
