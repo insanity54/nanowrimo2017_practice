@@ -6,4 +6,4 @@ Each section (example: 001.md) contains approximately 1,666 words. If I can writ
 
 A little bit about the genre. It's definately not for everyone. It's a science fiction/fantasy world with mages and espers, mind hacking, strong language and violence. It's chock full of sexually suggestive humor and zany situations. (I'm drawing on years of research of ecchi harem anime. Woot!)
 
-To read the novel as it progresses, check the book out on [gitbook](https://insanity54.gitbooks.io/nanowrimo/content/) Comments can be written in the margins. Constructive critisism is appreciated!
+To read the novel as it progresses, check the book out on [gitbook](https://insanity54.gitbooks.io/nanowrimo/content/). Comments can be written in the margins. Constructive critisism is appreciated!
