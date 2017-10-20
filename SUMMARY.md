@@ -22,5 +22,6 @@
 * [Day 19](019.md)
 * [Story Notes](storynotes.md)
 * [Character Notes](characters.md)
+* [Timeline](timeline.md)
 
 
