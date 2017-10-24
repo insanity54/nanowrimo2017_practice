@@ -38,7 +38,11 @@
 * Kaito warns Tsubasa that Marth's situation needs to be resolved soon
 * Tsubasa sets up another trap, intentionally leaks info to Marth, hoping evil esper hears.
   * gives marth some freedom so marth will Astral project
-
+* Marth does something stupid that attracts the Evil Esper
+* Evil Esper reveals self to Marth, along with their team of Espers & their scheme
+  * One EE uses a difficult projection every day, storing it’s effect in a deck of place cards.
+    this allows them to cast difficult projections rapid-fire during conflicts, but they run out of “ammo”
+  * 
 
 
 ## Story Plot
@@ -126,3 +130,9 @@ Teleportation. First mention was by Masked Esper on Subject 34 (Aldo)
 
 * Astral usage is inconsistent. The admin building for instance. Who's reality is doing what? Is the interior part of the multiverse or is it in someone's astral realm?
 * Yoshida-sensei is supposed to be super casual, but she never said her first name when she introduced herself.
+* After Aldo wakes up after being put into a coma by Tsubasa-sensei's attack barrier, there is a timeline discrepency.
+  * Marth saw Aldo get knocked out, then he goes straight to the cafeteria where Tsubasa-sensei announces The competition's been rescheduled
+  * Tsubasa-sensei should be with unconscious Aldo at that time, or busy doing something far away from school.
+  * (Maybe she was talking to Keito which is why she didn't show up immediately after Marth RV'd?)
+    * In that case, the timeline would be OK. After making the announcement, Tsubasa would go to the infirmiry and everything is on track.
+  * The competition being rescheduled needs to happen after some time has passed. Maybe after Keito tells Tsubasa to speed up the trapping process.

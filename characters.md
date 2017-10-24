@@ -22,8 +22,7 @@
 #### Introverted Intuition Feeling Percieving "The Healer" aka "Brainy Moeblob"
 
 Platinum Blonde ditzy girl with a side pony tail and green eyes
-Body type reference -- http://www.project-imas.com/wiki/Kanako_Mimura
-
+Anime character inspired by [Rumia Tingel](http://rokuaka.wikia.com/wiki/Rumia_Tingel)
 
 
 ## Tanaka, Aoi
