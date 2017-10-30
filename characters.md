@@ -116,3 +116,10 @@ https://s-media-cache-ak0.pinimg.com/originals/27/a8/71/27a87113b89574336dcbe9e4
 #### Bubbly Doctor
 
 pink hair, glasses, short but strong, never stops smiling.
+
+
+## Nishi, Hotaru （西蛍）
+#### Odd mysterious pervert girl who likes other girls
+
+Carries around mil-spec binoculars & an umbrella she pretends is a sniper rifle. Obsessed with military operations & girl’s underwear. Shoulder length messy black hair.
+

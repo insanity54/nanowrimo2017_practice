@@ -28,6 +28,10 @@
     * The barrier was meant to conter-attack then attract the evil esper to Marth once the Evil esper tried to make any changes to Marth's Astral realm.
       * When the evil esper was attracted, Tsubasa-sensei would be able to catch them.
       * Aldo fucked up Tsubasa sensei's trap
+* Thanks to Aldo, Evil esper figures out there is a trap, so they start following Marth.
+* Nishi Hotaru gets Marth in trouble in the cafeteria
+* Nishi Hotaru sneaks into Marth’s room and cuddles with him as he sleeps.
+* Nishi Hotaru modifies Yoshida-sensei’s place card in Marth’s pocket 
 * Tsubasa-sensei sends Marth to the mine cus she's busy and shit
 * Marth gets bored/fed up during work and tries to remove the proxy
 * Marth accidentally removes his affinity for women (see notes below)
@@ -38,8 +42,8 @@
 * Kaito warns Tsubasa that Marth's situation needs to be resolved soon
 * Tsubasa sets up another trap, intentionally leaks info to Marth, hoping evil esper hears.
   * gives marth some freedom so marth will Astral project
-* Marth does something stupid that attracts the Evil Esper
-* Evil Esper reveals self to Marth, along with their team of Espers & their scheme
+* Marth does something stupid that attracts the Evil Esper (Nishi Hotaru)
+* Evil Esper (Nishi Hotaru) reveals self to Marth, along with their team of Espers & their scheme
   * One EE uses a difficult projection every day, storing it’s effect in a deck of place cards.
     this allows them to cast difficult projections rapid-fire during conflicts, but they run out of “ammo”
   * 
@@ -101,6 +105,10 @@ The user of a place card can optionally draw their affiliation on the back of th
 "The doctor wasted no time and immediately started cutting Aldo's tattered clothes from his body using a sharp pair of scissors. Marth looked away and walked towards the door"
 
 
+### Nishi Hotaru the stalker
+
+Niche Hotaru (the evil esper who cast Nemesis of Time via Marth) started following Marth after she realized that Marth had a defense barrier (thanks Aldo.) She gave him binoculars in the cafeteria to get him in trouble, then she followed him to his room when he took a nap. She cuddled in his bed with him (influencing his dreams) before modifying Yoshida-sensei’s place card to make it burn without stopping. At some point, she needs to explain that she was in his room and the one responsible for altering the place card.
+
 
 ## Astral Projections List
 
@@ -114,6 +122,11 @@ Allows the projector to see/feel things that are physically distant
 ### Ionic Shock
 
 A spherical blast of electricity. Multiple uses from static shock pranks to tazer-like nervous system interruption to electrocution executions.
+
+
+### Atomic Relegation
+
+Used to synthesize materials. Marth uses it to create a giant pickaxe, and the school's uniform.
 
 
 ### Pysical Translation
