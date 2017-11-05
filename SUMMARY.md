@@ -21,6 +21,7 @@
 * [Day 18](018.md)
 * [Day 19](019.md)
 * [Day 20](020.md)
+* [Day 21](021.md)
 * [Story Notes](storynotes.md)
 * [Character Notes](characters.md)
 * [Timeline](timeline.md)
