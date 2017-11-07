@@ -23,6 +23,7 @@
 * [Day 20](020.md)
 * [Day 21](021.md)
 * [Day 22](022.md)
+* [Day 23](023.md)
 * [Story Notes](storynotes.md)
 * [Character Notes](characters.md)
 * [Timeline](timeline.md)
