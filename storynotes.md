@@ -25,7 +25,7 @@
     * Aldo is transformed to a hysterical killing maniac through trauma and abuse
     * Aldo is saved by a young Tsubasa sensei
   * Aldo gets his head fux'd by Marth's barrier, which turns Aldo's distaste for Marth into an attraction to Marth
-    * The barrier was meant to conter-attack then attract the evil esper to Marth once the Evil esper tried to make any changes to Marth's Astral realm.
+    * The barrier was meant to counter-attack then attract the evil esper to Marth once the Evil Esper tried to make any changes to Marth's Astral realm.
       * When the evil esper was attracted, Tsubasa-sensei would be able to catch them.
       * Aldo fucked up Tsubasa sensei's trap
 * Thanks to Aldo, Evil esper figures out there is a trap, so they start following Marth.
@@ -134,7 +134,14 @@ Used to synthesize materials. Marth uses it to create a giant pickaxe, and the s
 Teleportation. First mention was by Masked Esper on Subject 34 (Aldo)
 
 
+### Starry Notif
 
+Remote notification method via Place Card. Takes the form of a painting of a stained glass window depicting a shooting star. By default, the place card becomes hot (up to 44 degrees) and lasts for 10 seconds. Place Card exploits apply.
+
+
+### Astral Inspection
+
+Developed/used by Yoshida-sensei to perform a deep inspection of a person. Does not trigger Astral defense barriers, as it is a read-only operation. Can query muscles in the body, revealing experiences the mind hadn’t perceived. Takes the form of a large green eye on the forehead with actively squiggly eyelashes. 
 
 
 
@@ -149,3 +156,4 @@ Teleportation. First mention was by Masked Esper on Subject 34 (Aldo)
   * (Maybe she was talking to Keito which is why she didn't show up immediately after Marth RV'd?)
     * In that case, the timeline would be OK. After making the announcement, Tsubasa would go to the infirmiry and everything is on track.
   * The competition being rescheduled needs to happen after some time has passed. Maybe after Keito tells Tsubasa to speed up the trapping process.
+* Tsubasa-sensei’s personality keeps changing. Is she a thundre or not? is she a hard ass or not? Is she a masochist or not? Is she in love with Marth or not? (If so, why tf is she?)
