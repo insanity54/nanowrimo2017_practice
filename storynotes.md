@@ -43,7 +43,7 @@
 * Tsubasa sets up another trap, intentionally leaks info to Marth, hoping evil esper hears.
   * gives marth some freedom so marth will Astral project
 * Marth does something stupid that attracts the Evil Esper (Nishi Hotaru)
-* Evil Esper (Nishi Hotaru) reveals self to Marth, along with their team of Espers & their scheme
+* Evil Esper (EE) (Nishi Hotaru) reveals self to Marth, along with their team of Espers & their scheme
   * One EE uses a difficult projection every day, storing it’s effect in a deck of place cards.
     this allows them to cast difficult projections rapid-fire during conflicts, but they run out of “ammo”
   * 
@@ -108,6 +108,17 @@ The user of a place card can optionally draw their affiliation on the back of th
 ### Nishi Hotaru the stalker
 
 Niche Hotaru (the evil esper who cast Nemesis of Time via Marth) started following Marth after she realized that Marth had a defense barrier (thanks Aldo.) She gave him binoculars in the cafeteria to get him in trouble, then she followed him to his room when he took a nap. She cuddled in his bed with him (influencing his dreams) before modifying Yoshida-sensei’s place card to make it burn without stopping. At some point, she needs to explain that she was in his room and the one responsible for altering the place card.
+
+### Marth's bed sucks
+
+A new day began and Marth awoke to the sound of footsteps running through the hallways.
+
+"Hurry guys, we're going to be late for school!", Marth whispered, still halfway in a dream.
+
+A moment passed as Marth struggled to open his eyes. Pushing down his blanket, he sat up in his bed of potato sacks. A notch in his back manifested as stretched his arms towards the ceiling.
+
+"Owch! I gotta do something about this dorm situation."
+
 
 
 ## Astral Projections List
