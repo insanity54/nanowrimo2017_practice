@@ -39,15 +39,17 @@
 * Tanaka fights Marth, Marth is grossed out
 * Tsubasa-sensei saves the day
 * evil esper strikes again
-* Kaito warns Tsubasa that Marth's situation needs to be resolved soon
-* Tsubasa sets up another trap, intentionally leaks info to Marth, hoping evil esper hears.
-  * gives marth some freedom so marth will Astral project
+* [x] Other pillars warn Tsubasa that Marth's situation needs to be resolved soon or Marth be executed.
+* [x] Tsubasa sets up a competition for all students who wish to join St. Ezreal’s Esperly order.
+  * [x] Tsubasa plans the event so that Marth will Astral Project many times, hoping to coax the EE to use one of Marth’s projections to proxy NoT.
+  * [ ] Tsubasa sets up another trap, intentionally leaks info to Marth, hoping evil Esper hears.
+  * [ ] gives marth some freedom (training) so Marth will Astral project
 * Marth asks for a better room/bed because he may die in 2 weeks.
-  * [ ] Tsubasa says no, and that he shouldn’t give up and if he wins the competition he’ll get a better room *and* a special treat.
-* Marth does something stupid that attracts the Evil Esper (Nishi Hotaru)
-* Evil Esper (EE) (Nishi Hotaru) reveals self to Marth, along with their team of Espers & their scheme
-  * One EE uses a difficult projection every day, storing it’s effect in a deck of place cards.
-    this allows them to cast difficult projections rapid-fire during conflicts, but they run out of “ammo”
+  * [ ] Tubas says no, and that he shouldn’t give up and if he wins the competition he’ll get a better room *and* a special treat.
+* [ ] bath scene.
+* [ ] Marth does something stupid that attracts the Evil Esper (Nishi Hotaru)
+* [ ] Evil Esper (EE) (Nishi Hotaru) reveals self to Marth, along with their team of Espers & their scheme
+  * [ ] One EE uses a difficult projection every day, storing it’s effect in a deck of place cards. This allows them to cast difficult projections rapid-fire during conflicts, but they run out of “ammo”
   * 
 
 
@@ -156,8 +158,26 @@ Remote notification method via Place Card. Takes the form of a painting of a sta
 
 Developed/used by Yoshida-sensei to perform a deep inspection of a person. Does not trigger Astral defense barriers, as it is a read-only operation. Can query muscles in the body, revealing experiences the mind hadn’t perceived. Takes the form of a large green eye on the forehead with actively squiggly eyelashes. 
 
+### Burst of Embers
+
+Pulsating flames. Many uses.
 
 
+### Place Cards
+
+Not strictly a projection in itself, but a method to store ANY projection which can be traded, or used by the original projector.
+
+#### Tsubasa’s place card magazine
+
+Tsubasa’s combat loadout contains a partitioned pouch of five stacks of cards. Common for all Esper combatants, the cards are used to supplement her own abilities, allowing the Esper to project many times without a toll on their stamina. 
+
+* Stack Position 1 - ??? - A very common attack with multiple uses
+* Stack Position 2 - ??? - 
+* Stack Position 3 - Burst of Embers - Fire-based pulsating flames
+* Stack Position 4 - Blanks - Place cards containing a dud projection. Used for feints. 
+* Stack Position 5 - Bubble Shield - Creates a spherical shield from the top down.
+
+Tsubasa uses the Place Card’s second projection slot to store a projection which acts as an initialization function. It can be different for different types of cards, but for Burst of Embers, Burst of Ember’s variables (intensity, delay before unsealing, and duration) are set depending on how Tsubasa throws the card. arm extension equals intensity. speed of finger flick equals delay before unsealing. rotation of wrist twist equals duration of burst.)
 
 ## Story Problems
 
