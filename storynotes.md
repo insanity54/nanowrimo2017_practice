@@ -45,7 +45,9 @@
   * [ ] Tsubasa sets up another trap, intentionally leaks info to Marth, hoping evil Esper hears.
   * [ ] gives marth some freedom (training) so Marth will Astral project
 * Marth asks for a better room/bed because he may die in 2 weeks.
-  * [ ] Tubas says no, and that he shouldn’t give up and if he wins the competition he’ll get a better room *and* a special treat.
+  * [ ] Tsubasa says no, and that he shouldn’t give up and if he wins the competition he’ll get a better room *and* a special treat.
+  * [x] Tsubasa explains personal reality shields. 
+  * [ ] Tsubasa explains that personal realities have to be attacked indirectly through shared reality.
 * [ ] bath scene.
 * [ ] Marth does something stupid that attracts the Evil Esper (Nishi Hotaru)
 * [ ] Evil Esper (EE) (Nishi Hotaru) reveals self to Marth, along with their team of Espers & their scheme
@@ -134,6 +136,11 @@ A.K.A. HYPER-DRAGON-EYE
 Allows the projector to see/feel things that are physically distant
 
 
+### Cryptic Isolation
+
+An injection which pulls one’s personal reality into the personal reality of the projector. Injections are the most advanced class of projections because the creator must be aware of the other person's personal reality, seizing it and making it part of their own. Using Cryptic Isolation on a stranger would be impossible, because the creator cannot know the stranger's mindset. The better a creator knows the target, the more effective the injection.
+
+
 ### Ionic Shock
 
 A spherical blast of electricity. Multiple uses from static shock pranks to tazer-like nervous system interruption to electrocution executions.
@@ -142,6 +149,11 @@ A spherical blast of electricity. Multiple uses from static shock pranks to taze
 ### Atomic Relegation
 
 Used to synthesize materials. Marth uses it to create a giant pickaxe, and the school's uniform.
+
+
+### Resonante Wave
+
+A basic projection which has hundreds of applications. Resonant Wave uses vibration to affect a target. Resonant Wave can create a sound when a target material vibrates fast enough to reach it's resonant frequency, or it can create heat as a result of target's accelerated particles.
 
 
 ### Pysical Translation
@@ -167,6 +179,7 @@ Pulsating flames. Many uses.
 
 Not strictly a projection in itself, but a method to store ANY projection which can be traded, or used by the original projector.
 
+
 #### Tsubasa’s place card magazine
 
 Tsubasa’s combat loadout contains a partitioned pouch of five stacks of cards. Common for all Esper combatants, the cards are used to supplement her own abilities, allowing the Esper to project many times without a toll on their stamina. 
@@ -178,6 +191,12 @@ Tsubasa’s combat loadout contains a partitioned pouch of five stacks of cards.
 * Stack Position 5 - Bubble Shield - Creates a spherical shield from the top down.
 
 Tsubasa uses the Place Card’s second projection slot to store a projection which acts as an initialization function. It can be different for different types of cards, but for Burst of Embers, Burst of Ember’s variables (intensity, delay before unsealing, and duration) are set depending on how Tsubasa throws the card. arm extension equals intensity. speed of finger flick equals delay before unsealing. rotation of wrist twist equals duration of burst.)
+
+
+### Etherial Void
+
+A sphere of purple/black which erases anything it touches. WMD if expanded largely.
+
 
 ## Story Problems
 
