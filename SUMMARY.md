@@ -1,4 +1,4 @@
-\1;95;0c# Summary
+# Summary
 
 * [Introduction](README.md)
 * [Day 1](001.md)
