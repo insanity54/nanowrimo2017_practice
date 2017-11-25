@@ -193,9 +193,17 @@ Tsubasa’s combat loadout contains a partitioned pouch of five stacks of cards.
 Tsubasa uses the Place Card’s second projection slot to store a projection which acts as an initialization function. It can be different for different types of cards, but for Burst of Embers, Burst of Ember’s variables (intensity, delay before unsealing, and duration) are set depending on how Tsubasa throws the card. arm extension equals intensity. speed of finger flick equals delay before unsealing. rotation of wrist twist equals duration of burst.)
 
 
+
+### Emminential Provenance
+
+The projection used to seal a second projection in a place card.
+
+
 ### Etherial Void
 
 A sphere of purple/black which erases anything it touches. WMD if expanded largely.
+
+
 
 
 ## Story Problems
@@ -208,4 +216,4 @@ A sphere of purple/black which erases anything it touches. WMD if expanded large
   * (Maybe she was talking to Keito which is why she didn't show up immediately after Marth RV'd?)
     * In that case, the timeline would be OK. After making the announcement, Tsubasa would go to the infirmiry and everything is on track.
   * The competition being rescheduled needs to happen after some time has passed. Maybe after Keito tells Tsubasa to speed up the trapping process.
-* Tsubasa-sensei’s personality keeps changing. Is she a thundre or not? is she a hard ass or not? Is she a masochist or not? Is she in love with Marth or not? (If so, why tf is she?)
+* Tsubasa-sensei’s personality keeps changing. Is she a tsundere or not? is she a hard ass or not? Is she a masochist or not? Is she in love with Marth or not? (If so, why tf is she?)
