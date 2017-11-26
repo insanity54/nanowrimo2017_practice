@@ -151,7 +151,7 @@ A spherical blast of electricity. Multiple uses from static shock pranks to taze
 Used to synthesize materials. Marth uses it to create a giant pickaxe, and the school's uniform.
 
 
-### Resonante Wave
+### Resonant Wave
 
 A basic projection which has hundreds of applications. Resonant Wave uses vibration to affect a target. Resonant Wave can create a sound when a target material vibrates fast enough to reach it's resonant frequency, or it can create heat as a result of target's accelerated particles.
 
