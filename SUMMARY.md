@@ -29,6 +29,7 @@
 * [Day 26](026.md)
 * [Day 27](027.md)
 * [Day 28](028.md)
+* [Day 29](029.md)
 * [Story Notes](storynotes.md)
 * [Character Notes](characters.md)
 * [Timeline](timeline.md)
