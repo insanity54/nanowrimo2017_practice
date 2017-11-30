@@ -32,7 +32,7 @@ Anime character inspired by [Rumia Tingel](http://rokuaka.wikia.com/wiki/Rumia_T
 
 
 Rich girl with long brown hair and blue eyes. Friends with Shizuma Miyu.
-Body type reference -- http://www.project-imas.com/wiki/Uzuki_Shimamura
+Body type reference -- http://rokuaka.wikia.com/wiki/Sistine_Fibel
 Marth calls her a cat girl because of the time he broke Aldo sensei's projection by imagining Aoi as a naked cat girl.
 
 
