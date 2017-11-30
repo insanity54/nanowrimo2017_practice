@@ -47,8 +47,9 @@
 * Marth asks for a better room/bed because he may die in 2 weeks.
   * [ ] Tsubasa says no, and that he shouldn’t give up and if he wins the competition he’ll get a better room *and* a special treat.
   * [x] Tsubasa explains personal reality shields. 
-  * [ ] Tsubasa explains that personal realities have to be attacked indirectly through shared reality.
-* [ ] bath scene.
+  * [x] Tsubasa explains that personal realities have to be attacked indirectly through shared reality.
+* [x] bath scene.
+* Tsubasa trains Marth
 * [ ] Marth does something stupid that attracts the Evil Esper (Nishi Hotaru)
 * [ ] Evil Esper (EE) (Nishi Hotaru) reveals self to Marth, along with their team of Espers & their scheme
   * [ ] One EE uses a difficult projection every day, storing it’s effect in a deck of place cards. This allows them to cast difficult projections rapid-fire during conflicts, but they run out of “ammo”
