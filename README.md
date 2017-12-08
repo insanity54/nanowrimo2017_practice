@@ -10,6 +10,8 @@ Each section (example: 001.md) was a writing session, containing at least 1,666 
 
 A little bit about the genre. It's definately not for everyone. It's a science fiction/fantasy world with mages and espers, mind hacking, strong language and violence. It's chock full of sexually suggestive humor and zany situations. (I'm drawing on years of research of ecchi harem anime. Woot!)
 
-To read the novel, I want to recommend [gitbook](https://insanity54.gitbooks.io/nanowrimo/content/), but unfortunately something broke and gitbook won’t update the content past session 23. Reading the novel here on Github or cloning/downloading this repository to your computer would be the best way. If I can figure it out so I can get the content to update on giitbook, I’ll update this README. The book has some story inconsistencies (as noted in story-notes.md (spoiler alert)) and it’s only a first draft right now, but Constructive criticism is appreciated! I don’t think I’ll polish this one, but rather I will take the criticisms as notes for next NaNoWriMo!
+To read the novel, I recommend viewing it through [gitbook](https://insanity54.gitbooks.io/nanowrimo/content/).
+
+The book has some story inconsistencies (as noted in story-notes.md (spoiler alert)) and it’s only a first draft right now, but Constructive criticism is appreciated! I don’t think I’ll polish this one, but rather I will take the criticisms as notes for next NaNoWriMo!
 
 Big thanks to [@mindsforge](https://twitter.com/mindsforge), [@DoodleGarou](https://twitter.com/DoodleGarou), and [@MuLlaak](https://twitter.com/MuLlaak) for the encouragement, support, and inspiration! I wouldn’t have ‘picked up a pen’ so to speak if it weren’t for you three!
