@@ -1,3 +1,8 @@
+---
+layout:    myLayout
+title:	   "St. Ezreal's School of Espers"
+---
+
 Nervously sitting at his desk, Marth glanced around the room to see that most of his peers were already relaxing with their pencils down. Five minutes and five seconds remained on the clock and Marth couldn't stop sweating.
 
 "They can't be done yet. That's impossible! They have to be cheating.", Marth muttered to himself.
@@ -6,7 +11,7 @@ Nervously sitting at his desk, Marth glanced around the room to see that most of
 
  "Shit!", Marth cursed. His exam not even half complete.
 
-Marth quickly flipped through the incomplete pages, barely eyeing the masses of text. 
+Marth quickly flipped through the incomplete pages, barely eyeing the masses of text.
 
 "There's no way. This much would take me another thirty minutes!"
 
@@ -32,7 +37,7 @@ Marth let out an embarrassed cough and blushed just the same. He closed his eyes
 
 Marth hadn't answered a single question in three minutes, too busy thinking about giving up and looking at cute girls.
 
-"This is crunch time!" Marth thought, trying to get himself amped up. But that alone wasn't enough. With half the exam remaining, and such little time, there was only one option remaining for success. The thing that got Marth into Esper studies in the first place, the thing that had gotten him into so much trouble, but so much fun... 
+"This is crunch time!" Marth thought, trying to get himself amped up. But that alone wasn't enough. With half the exam remaining, and such little time, there was only one option remaining for success. The thing that got Marth into Esper studies in the first place, the thing that had gotten him into so much trouble, but so much fun...
 
 Marth sat up straight with a stern look on his face, closed his eyes, and opened his mind's eye. Astral Projection. A world within the mind, able to be summoned by any human being. The basis for Esper abilities. In this world, time stands still, as the Astral reality becomes that of the user's design. There is nothing but one's self and blackness, until one's consciousness creates another thing. Marth had discovered this place by accident when he was young, bored, and lonely. Like many, Marth had created imaginary friends to keep himself company, but only after an accident did Marth actually migrate an Astral lifeform to the real world. It was an imperfect being, with it's soul tied to Marth himself, but it lived, walked and talked for a short time. A taboo, creating life, but he didn't learn that until later.
 
@@ -56,7 +61,7 @@ St. Ezreal's campus was lit up by the sun as students exited the Astral Science 
 
 "At least I finished, and those answers seemed Okay.", he consoled.
 
-The other students who had been taking the entrance exam were walking in the same direction. There were school uniforms of all the nearby highschools, as well as uniforms Marth had never seen before. 
+The other students who had been taking the entrance exam were walking in the same direction. There were school uniforms of all the nearby highschools, as well as uniforms Marth had never seen before.
 
 "Hey you!", an unfamiliar voice pitched in, Marth opening an eye to see.
 
@@ -198,7 +203,7 @@ Marth quit his bickering and stood up straight. "I just came here to take the en
 
 "I am not a spy. Ever since I was little, I've read about St. Ezreal's Academy. Espers, using only science and the power of human consciousness learn and practice to become a force for good. In my grandfather's time, St. Ezreal's operatives defended his village from invading magic users. During the last great flood, St. Ezreal's rescued my village. Becoming an Esper operative is my dream. I just wanted in so bad that I cheated with Hyper Dragon Eye. The test was stupid and everyone else was probably cheating anyway.", Marth passionately told his story.
 
-"I see. report to the administration building immediately." Tsubasa-sensei said as she loosened up a bit. 
+"I see. report to the administration building immediately." Tsubasa-sensei said as she loosened up a bit.
 
 Marth wasn't having it. "A moment ago, I could have died! I just want to go home."
 
@@ -302,7 +307,7 @@ Marth quit his bickering and stood up straight. "I just came here to take the en
 
 "I am not a spy. Ever since I was little, I've read about St. Ezreal's Academy. Espers, using only science and the power of human consciousness learn and practice to become a force for good. In my grandfather's time, St. Ezreal's operatives defended his village from invading magic users. During the last great flood, St. Ezreal's rescued my village. Becoming an Esper operative is my dream. I just wanted in so bad that I cheated with Hyper Dragon Eye. The test was stupid and everyone else was probably cheating anyway.", Marth passionately told his story.
 
-"I see. report to the administration building immediately." Tsubasa-sensei said as she loosened up a bit. 
+"I see. report to the administration building immediately." Tsubasa-sensei said as she loosened up a bit.
 
 Marth wasn't having it. "A moment ago, I could have died! I just want to go home."
 
@@ -458,7 +463,7 @@ Marth kicked back, recounting the day's events. The fifth pillar of St. Ezreal's
 
 ---
 
-Marth awoke to a knocking at his door. 
+Marth awoke to a knocking at his door.
 
 "Five more minutes, onae-chan." Tired and groggy, Marth didn't remember where he was.
 
@@ -519,9 +524,9 @@ A vein seemed to pop on Tanaka Aoi's forehead, her face wrenching in anger.
 
 "At least address me properly, you inconsiderate bastard!", She said as she got physical, grabbing the back of Marth's head and pressing it into the table. Marth's arms tensing in the air.
 
-"Oww! What gives?" Marth cried 
+"Oww! What gives?" Marth cried
 
- 
+
 as he resisted Tanaka's push.
 
 "Hmmph!", Tanaka let out, crossing her arms and turning her head as she closed her eyes.
@@ -536,7 +541,7 @@ Annoying or not, he was going to be seeing more of these two from now on, so it 
 
 "I am Watanabe Marth. It's been a little difficult since we met. How about we start over?", Marth started his diplomacy.
 
-Shizuma Miyu nodded her head twice with a confirming, "mhm, mhm." 
+Shizuma Miyu nodded her head twice with a confirming, "mhm, mhm."
 
 Tanaka Aoi clenched up and looked away again, blushing a bit as she was thrown off by his congeniality. It only lasted for a moment and she faced Marth to yell.
 
@@ -560,7 +565,7 @@ Resonant Wave, a basic projection which has hundreds of applications. Resonant W
 
 Marth squared up to the fountain, pushing both his palms outward in front of him. Marth closed his eyes and saw his naked self in the Astral realm, holding the same position. In this realm, he created a summoning circle in front of his hands, with symbols representing sinewaves, particles, and random movement. He increased the size of the summoning circle to match the size of the fountain, and opened his eyes, merging his Astral realm's reality into his own. The summoning circle now was in the real world, and Marth focused on the fountain past his bare arms and blue translucent summoning circle. Marth spoke the words, "Resonant Wave, I project!" and the summoning circle vibrated considerably. Slowly, the temperature of the fountain's water began to increase.
 
-"Let's turn you into some steamy hot steam!", Marth thought accelerating the water molecules would be good practice and he could tell from the bubbles that it was getting warmer. Just when Marth was getting ready to see steam rise from the display, he heard a girl yelp as if in pain. 
+"Let's turn you into some steamy hot steam!", Marth thought accelerating the water molecules would be good practice and he could tell from the bubbles that it was getting warmer. Just when Marth was getting ready to see steam rise from the display, he heard a girl yelp as if in pain.
 
 "AhhA!"
 
@@ -574,7 +579,7 @@ Marth wanted to call out, but couldn't draw attention to himself as he hid there
 
 "So hot!", Sato cried as she pushed a hand between her legs, the other still around her chest.
 
-Marth was confused. Did she overheat from running? Is she having a heart attack? Naked or not, if Sato-senpai was in danger, this was no time to be hiding. 
+Marth was confused. Did she overheat from running? Is she having a heart attack? Naked or not, if Sato-senpai was in danger, this was no time to be hiding.
 
 "Sato-senpai!", Marth jumped out from behind the bush, running towards his senior.
 
@@ -592,7 +597,7 @@ The sky went from dark to stormy, lightning striking the background as the wind 
 
 "Tell me, Marth, do you wish to die?", Sato asked as the world seemed to turn against Marth.
 
-Was Sato Hanna the type of girl to kill out of spite? Marth, stunned and afraid, could only beg for his life. 
+Was Sato Hanna the type of girl to kill out of spite? Marth, stunned and afraid, could only beg for his life.
 
 "I.. It's not what you think!", Marth pleaded. "It was an accident!"
 
@@ -612,7 +617,7 @@ The two reached the dormitory and Marth was thrown into the supply closet, still
 
 ---
 
-Marth awoke to a knock at his door. It was morning and Tsubasa-sensei had returned to see him off to work. The ropes from the night before had loosened, allowing Marth to shake free. 
+Marth awoke to a knock at his door. It was morning and Tsubasa-sensei had returned to see him off to work. The ropes from the night before had loosened, allowing Marth to shake free.
 
 "I need another uniform", Marth said through the door before Tsubasa could enter.
 
@@ -626,7 +631,7 @@ The two left the dorm building and headed towards the administration building. I
 
 "The school doesn't. It's on another plane.", sensei replied.
 
-"The administration building is empty for a reason. It's vacancy symbolizes raw potential. Just like a human mind, we could turn that space into whatever we wanted to make it. The students here have that same potential, they can become whatever they want to become. The building is empty on the inside, but we make of it a portal into different planes of existence." 
+"The administration building is empty for a reason. It's vacancy symbolizes raw potential. Just like a human mind, we could turn that space into whatever we wanted to make it. The students here have that same potential, they can become whatever they want to become. The building is empty on the inside, but we make of it a portal into different planes of existence."
 
 "That made no sense, sensei".
 
@@ -656,7 +661,7 @@ Marth's head began to hurt, althought it might have been from being kicked and s
 
 "So we're equivalent to being there, but we're also here. Could I move ten meters here, shift back to there, and I'd have moved ten meters there?", Marth could get technical too. Placing a hand on his knee, he rose to stand with sensei.
 
-"Normally, yes. But this plane's units of measurement are smaller than what you're used to. Ten meters here is roughly ten millimeters there.", Tsubasa-sensei was getting Marth up to speed in front of a large conveyor belt meant for loading dump trucks with earth. 
+"Normally, yes. But this plane's units of measurement are smaller than what you're used to. Ten meters here is roughly ten millimeters there.", Tsubasa-sensei was getting Marth up to speed in front of a large conveyor belt meant for loading dump trucks with earth.
 
 "Then that means you could make the inside of the administration building as large as you wanted!", Marth said excitedly.
 
@@ -692,7 +697,7 @@ Marth wondered if this was a joke, but then again, this was Tsubasa-sensei, too 
 
 "Do your best!", She said as she walked off, disappearing as she shifted planes.
 
-Marth was left alone with the rocks on the desolate planet, 
+Marth was left alone with the rocks on the desolate planet,
 
 ---
 
@@ -716,13 +721,13 @@ Back at the rock where Marth had been mining, Marth looked at the small pile of 
 
 "Could this be another test?", Marth wondered as he thought of a better way. An Esper should be able to mine this using only their mind.
 
-Marth eyed the pickaxe on the ground. A simple tool, with a wooden handle and a steel head. Using Matter Synthesis, Marth should be able to create such a basic instrument. Marth closed his eyes, expecting to envision his lonely self in the astral realm. Instead, Marth saw a burst of glowing blue light fluctuating in his mind's eye. The light pulsed over and over, several times a second and Marth became dizzy as he tried to see the Astral realm. 
+Marth eyed the pickaxe on the ground. A simple tool, with a wooden handle and a steel head. Using Matter Synthesis, Marth should be able to create such a basic instrument. Marth closed his eyes, expecting to envision his lonely self in the astral realm. Instead, Marth saw a burst of glowing blue light fluctuating in his mind's eye. The light pulsed over and over, several times a second and Marth became dizzy as he tried to see the Astral realm.
 
 "This must be the Admirite.", Marth hypothesized, opening his eyes and looking down at the rock. Indeed it's effects had made him halleucinate as he arrived here, and the effects could be felt now as Marth tried to create a stable projection.
 
 "This stuff is supposed to amplify Esper abilities, but all I'm feeling is interference!", Marth tried again, closing his eyes. The blue pulsing waves of light were too strong to ignore.
 
-"It's no use.", Marth resigned his efforts, plopping down to sit on the ground. "I can't work against this material." 
+"It's no use.", Marth resigned his efforts, plopping down to sit on the ground. "I can't work against this material."
 
 Marth considered going back to the old fashioned way, although finishing with that method today would be impossible. The Admirite's waves were crashing against Marth's consciousness like the sea against the shore.
 
@@ -758,7 +763,7 @@ Marth felt like another thing was different about this projection.
 
 Floating around in consciousness form like a ghost in his Astral realm, Marth drifted to the right, away from his body, pursuing distance places in his mind he hadn't explored before.
 
-"I've never been able to go this far.", he attributed the new possible distance to the Admirite, looking back at his body, it's size now seeming like an ant. A new feature in the bluish background came into view as he went further. A dry lake bed followed by desert mountains. 
+"I've never been able to go this far.", he attributed the new possible distance to the Admirite, looking back at his body, it's size now seeming like an ant. A new feature in the bluish background came into view as he went further. A dry lake bed followed by desert mountains.
 
 "Dry lake bed? I'm in a desert now? Mountains? I didn't put these here.", Marth began to be confused, but pressed forward towards the alps. As he did so, the flat ground transitioned to a rocky hillside. A sensation of a bright orange light arose among the Admirite's persistent feel. The light started to feel brighter.
 
@@ -780,9 +785,9 @@ Marth approached the clock, awestruck. He wanted to reach out and pick it up, bu
 
 Marth looked down at his body as he drew a massive blue summoning circle in front of it. Normally summoning circles had to be drawn small, then grown larger, but thanks to the Admirite, Marth was able to create a huge one to begin with. Within the circle were elements of iron, heat, and wood. Slowly, Marth activated the summoning circle, which began to glow a bright white. Arising from the circle, Marth lifted an enormous steel pickaxe head, and sizeable wood handle to match. Floating above the summoning circle, Marth envisioned the two pieces coming together, and they did just that, snapping into place with a large THUD-D-D.
 
-Marth returned to his Astral body as he continued to hold the giant pickaxe with his mind. It was as if vast ghostly arms extended from Marth's own shoulders, their strength more than sufficient to hold the structure in place. Marth let go the summoning circle which faded into nothingness. Back in his astral body, he began the process to merge his Astral reality with the real world. 
+Marth returned to his Astral body as he continued to hold the giant pickaxe with his mind. It was as if vast ghostly arms extended from Marth's own shoulders, their strength more than sufficient to hold the structure in place. Marth let go the summoning circle which faded into nothingness. Back in his astral body, he began the process to merge his Astral reality with the real world.
 
-Marth's eyes opened to see the quarry, and a giant pickaxe floating above. Easily the height of a five story building, the pickaxe cast a shadow on the ground below him. Marth took a moment to adjust his hard hat and gloves, before stretching his shoulders, attached to his large invisible arms. Eyeing the ground in front of him, Marth looked for the perfect spot to make the first blow. Marth crossed his tiny arms, putting one hand to his chin, while his giant invisible arms held their position, grasping the giant pickaxe. 
+Marth's eyes opened to see the quarry, and a giant pickaxe floating above. Easily the height of a five story building, the pickaxe cast a shadow on the ground below him. Marth took a moment to adjust his hard hat and gloves, before stretching his shoulders, attached to his large invisible arms. Eyeing the ground in front of him, Marth looked for the perfect spot to make the first blow. Marth crossed his tiny arms, putting one hand to his chin, while his giant invisible arms held their position, grasping the giant pickaxe.
 
 A perfect rock outcropping was seen with a chunk of exposed Admirite. Marth's vision tunneled on the jutting stone, as his crossed tiny arms synchronized position with his huge. His pair of arms reached for the sky, still grasping the mammoth wooden handle, before cocking back and moving the immense tool over his shoulders and to his rear. The backwards motion made a loud whooshing as it pushed a substantial amount of air out of it's way before coming to a stop. Marth's eyes glowed with anticipation for what was coming next.
 
@@ -808,7 +813,7 @@ Marth saw an opportunity to slack off.
 
 "Well seeing as this is a seven day job, I guess I'll just take the next six days off!", Marth smiled, wishing she'd take the bait.
 
-"No, I'll have a different job for you tomorrow.", But good work. 
+"No, I'll have a different job for you tomorrow.", But good work.
 
 "What a let down!", Marth pouted.
 
@@ -848,7 +853,7 @@ Tsubasa-sensei closed her eyes, finished chewing her food, and swallowed.
 
 "Ok then, tell me about you.", Marth wanted to hear the answer Tsubasa had promised earlier.
 
-Tsubasa-sensei's mouth was full of food, but she suddenly stopped chewing, turning red and staring at Marth. Her cheeks were puffed out like a chipmunk's stuffed with nuts. Marth realized he didn't phrase his question very accurately. 
+Tsubasa-sensei's mouth was full of food, but she suddenly stopped chewing, turning red and staring at Marth. Her cheeks were puffed out like a chipmunk's stuffed with nuts. Marth realized he didn't phrase his question very accurately.
 
 "I mean, how were you able to not hallucinate like I did, when we arrived at the mines? I.. It's your Esper level, perhaps? You are after all the second pillar of St. Ezreal's.", Marth hurriedly clarified, stumbling over his words
 
@@ -942,7 +947,7 @@ Tsubasa kept walking, pressing her metallic chestplate into Marth's outward arms
 
 Tsubasa's face had lost it's regular stern look. She had relaxed again, and her blushing was back as well. Marth still wasn't sure what had gotten into her, and his hands continued to hover beside her armored torso.
 
-Tsubasa stared into Marth's eyes, and she looked concerned. "Marth, I'm only eight years older than you." She said, trying her hardest to hold back emotion. Marth seemed to have hit a nerve. 
+Tsubasa stared into Marth's eyes, and she looked concerned. "Marth, I'm only eight years older than you." She said, trying her hardest to hold back emotion. Marth seemed to have hit a nerve.
 
 "I... I'm sorry." Although this situation still wasn't making sense, Marth tried to patch things up. His face was so close to Tsubasa's, it was like they were about to...
 
@@ -1038,7 +1043,7 @@ Tsubasa-sensei chuckled some more.
 
 "If I'm to get to the bottom of this mystery, I need your full cooperation. Otherwise I might just let Aldo kill you!", She said as she raised her arms in the air, closing her eyes with a smile.
 
-"I might just go ask Aldo to kill me so I can be free of you!", Marth saw through her bluff, assuming more teasing. 
+"I might just go ask Aldo to kill me so I can be free of you!", Marth saw through her bluff, assuming more teasing.
 
 "Oh my!" Tsubasa-sensei was having a blast as she laughed before resuming her serious conversation. "I have a theory. Whoever used you as a proxy for Nemesis of Time is likely doing so to hide their presence from the Academy."
 
@@ -1050,7 +1055,7 @@ Tsubasa-sensei chuckled some more.
 
 "That's right! Be a good slave for me and bait out the evil Esper!", Tsubasa-sensei proposed her plan, lifting her arms like a preacher spreading gospel.
 
-Marth sat in silence as he considered his options, wondering if he even had any. 
+Marth sat in silence as he considered his options, wondering if he even had any.
 
 "What if I say no?"
 
@@ -1080,7 +1085,7 @@ Indeed, Tsubasa-sensei saw it necessary that the original Esper who used Marth a
 
 "Well, it can't be helped", Marth said as he stretched his arms. "I'm not about to sit in a potato sack bed all day."
 
-Marth got dressed in his work uniform and left his room. As he closed the door to the supply closet, the golden stained glass windows across the hall let in a beautiful shimmering light. 
+Marth got dressed in his work uniform and left his room. As he closed the door to the supply closet, the golden stained glass windows across the hall let in a beautiful shimmering light.
 
 "The past few days, Tsubasa-sensei stands there, blocking the light and barking orders for the day. It's nice to have a chance to enjoy the view."
 
@@ -1211,7 +1216,7 @@ Marth abruptly stood from his chair, still looking at the floor. He spoke up and
 
 "I have been known for having some low-brow entertainments, but that doesn't stop me. If a stuffed animal is enough for you imbeciles to scoff at, allow me to introduce you to my hobbies."
 
-The classroom stopped laughing, shifting their attention to this weired boii standing in the back near the window who was burning with a black aura. 
+The classroom stopped laughing, shifting their attention to this weired boii standing in the back near the window who was burning with a black aura.
 
 "True love has no bounds when it comes to life's simple pleasures. My eternal delights are from Ecchi body pillows!", Marth confidently hollered, planting his foot on his chair. In his hand, stretched towards the ceiling, he held an open heart shaped locket which was around his neck. It contained a glossy picture of he and his waifu, 2D anime idol Tahou Mitsubashi. Portrayed, Marth's right arm wrapped around the high dots-per-inch printed girl, with his other arm obviously holding the camera for a selfie with his puffy spouse. The class looked on in silent disbelief.
 
@@ -1225,7 +1230,7 @@ Moments passed before the lot burst into a collective uproar.
 
 The classroom went on, questioning the behaviour of their peer. A student in an adjacent desk gathered their belongings and relocated to an empty seat further away.
 
-Tanaka Aoi was no longer focused on being her embarrasement. Instead, she looked at Marth, showing a look of concern and bewinderment. 
+Tanaka Aoi was no longer focused on being her embarrasement. Instead, she looked at Marth, showing a look of concern and bewinderment.
 
 "I'm going to go back to my table, now", Tanaka said as she walked away from Marth. It was only Shizuma who seemed to grasp what Marth had really just done. She smiled largely at Marth, throwing a peace sign as her head tipped to the right. She followed after Tanaka.
 
@@ -1247,11 +1252,11 @@ Marth stood in the hallway next to the wall, watching as masses of well dressed 
 
 "I can't use the same trick twice.", Marth thought about how he had used Shuu's name. "If I pose as an absent student again, I'll have to assume a new name. The chances that I get outed by a student with a common class go up exponentially every period!"
 
-All the scheming made Marth feel drained. His stomached growled. 
+All the scheming made Marth feel drained. His stomached growled.
 
 "Tea time?", Shizuma Miyu appeared frmo the crowd, inviting Marth. Unbeknownst to Marth, there was a twenty minute break before the next class.
 
-The two left the Incorporeal Science building as Marth held the door open for Shizuma. She politely bowed and the two walked south towards the cafeteria. The sun was brightly shining down, casting short shadows from lamposts and students as they walked to their next appointments. The healthy green grass along either sides of the concrete walkways was cut short with care, edges trimmed neatly. 
+The two left the Incorporeal Science building as Marth held the door open for Shizuma. She politely bowed and the two walked south towards the cafeteria. The sun was brightly shining down, casting short shadows from lamposts and students as they walked to their next appointments. The healthy green grass along either sides of the concrete walkways was cut short with care, edges trimmed neatly.
 
 "Um, Mr...?", Shizuma wasn't sure which name to use in her address.
 
@@ -1299,7 +1304,7 @@ Marth paused, with muffins half chewed in his mouth. He hadn't thought that far 
 
 "Ohh, cool!", Shizuma was impressed. "Which course are you taking? Mixed martial arts? Krav Magaw?"
 
-Marth wasn't the sporty type, and taking either of those subjects were out of his comfort zone. Regardless, the emerald eyed Shizuma Miyu was right there, and he didn't want to look lame in front of her. 
+Marth wasn't the sporty type, and taking either of those subjects were out of his comfort zone. Regardless, the emerald eyed Shizuma Miyu was right there, and he didn't want to look lame in front of her.
 
 "MMA!", he went with the subject that seemed the most difficult.
 
@@ -1319,11 +1324,11 @@ Marth arrived at the walled-in range where he figured P.E. would take place. Mar
 
 "This must be to block any projectiles from escaping through the door." Marth shuddered at the thought of an incompetent trainee endangering others with a misfired projection.
 
-Marth turned to the right, walking parallel to the second wall. He came to it's end, turning left. The full range came into view. 
+Marth turned to the right, walking parallel to the second wall. He came to it's end, turning left. The full range came into view.
 
 Covering the ground was a thin layer of sand above packed in dirt. Within the rectangular barrier formed by the walls, several human torso shaped steel targets were attached to spring loaded mechanisms planted in the earth. A line was drawn in the sand, fifty meters in front of the dummy targets. A few emtpy wooden tables were placed on either side of the line.
 
-No other persons were present; Marth was alone with the range. 
+No other persons were present; Marth was alone with the range.
 
 "No class here? Dammit!", Marth cursed, striking the interior wall with his fist.
 
@@ -1331,13 +1336,13 @@ A clock in the yard chimed, signalling the top of the hour and the start of clas
 
 Marth sighed with his fist still against the stone wall.
 
-"This sucks." 
+"This sucks."
 
-Looking down at the ground, he shuffled his foot, pushing it through the thin layer of sand and into the dirt. 
+Looking down at the ground, he shuffled his foot, pushing it through the thin layer of sand and into the dirt.
 
 "This is St. Ezreal's practice range.", Marth lifted his fist from the wall and chuckled. "this is a day of firsts!"
 
-Marth stepped forward, stopping at the firing line. He pushed his palm in front of him and imagined firing a volley of hot lead from a summoning circle. 
+Marth stepped forward, stopping at the firing line. He pushed his palm in front of him and imagined firing a volley of hot lead from a summoning circle.
 
 "Ratta-tat-tat-tat!" Marth made the noise with his mouth, then stopped to chuckle. With his palm still stretched out, Marth continued to look down his arm, turning his body to face the left wall. He rose his arm, pointing it above the wall at the second floor of the dormitory.
 
@@ -1385,7 +1390,7 @@ Marth stood up and sighed. His day of freedom had been cut short.
 
 "Oh I'm well aware of Tsubasa-sensei's report, and I disagree. You should be killed anyway. You're are an accident waiting to happen." Aldo's distaste for Marth was clearly visible.
 
-"If you killed me, we'd never find out who was behind this. I want to know just as bad as anyone about who was in my head. My goal of becoming an Esper is on hold because of this whole fiasco!" Marth rose his arms in contempt. 
+"If you killed me, we'd never find out who was behind this. I want to know just as bad as anyone about who was in my head. My goal of becoming an Esper is on hold because of this whole fiasco!" Marth rose his arms in contempt.
 
 "Pfft, you're more trouble than you're worth." Aldo-sensei said with arms crossed.
 
@@ -1464,7 +1469,7 @@ Marth pulled the teacher near the entrance and sat him up against the wall. Mart
 
 The five water fountains in the yard were partially visible past the tall hedges, and the concrete path going from left to right which split a range of grass was free of passersbyers. The administration building's entrance to was visible to Marth's left.
 
-"Nobody's here." Marth deduced after looking from right to left. 
+"Nobody's here." Marth deduced after looking from right to left.
 
 Picking up Aldo, Marth took burdened step after step as the heels of Aldo's pointy shoes dragged across the concrete walkway. Encumbered by Aldo's weight, Marth cut through the grass, blazing  the shortest possible trail of pressed down grass from Aldo's limp bases.
 
@@ -1528,7 +1533,7 @@ Marth was fascinated. He inspected all parts of the card in his hand, comparing 
 
 "What was the projection?" Marth wondered.
 
-"Starry Notif." 
+"Starry Notif."
 
 "Starry Notif?"
 
@@ -1557,7 +1562,7 @@ In his rush to avoid seeing Aldo naked, Marth had forgotten that the infirmary w
 
 Marth's mind went wild. A place such as this was a dream come true. A hot doctor heals you up, then sends you out to the hotsprings to recover.
 
-"<< How about I join you? The doctor says once I'm simmering in the hot bath. >> Why not, m'lady, there's plenty of room in the pool to my left. << But I need to be in the pool with you so I can nurse your wounds!" Marth burbled so fast that his words smooshed together. He danced in place as his excited flow of speech hit critical mass, his bright red head letting off pressure through his ears like a steam train's whistle. 
+"<< How about I join you? The doctor says once I'm simmering in the hot bath. >> Why not, m'lady, there's plenty of room in the pool to my left. << But I need to be in the pool with you so I can nurse your wounds!" Marth burbled so fast that his words smooshed together. He danced in place as his excited flow of speech hit critical mass, his bright red head letting off pressure through his ears like a steam train's whistle.
 
 Yoshida-sensei looked on at Marth as he frolicked in place, letting out squees of joy.
 
@@ -1589,8 +1594,8 @@ Here, where the sounds of gunfire and chaos were absent, but a different kind of
 
 The booming voice of the guard drew the attention of the other subjects, both waking from their slumber. Seeing an opportunity to escape, the captive near the left wall stood up and dashed for the open door.
 
-The guard reacted immediately, reaching out his hand and 
-projecting a disruptive spherical blast of Ionic Shock. The attempted escapee's body went limp, legs collapsing and his weight crashing down the the floor with a thud, their unprotected head hitting the ground with a loud _SPLACK_. With his motor skills completely disabled, he let out no cries of pain or agony. As he lay motionless, his eyes teared and drool escaped from his mouth, his distressed, helpless face yearning for the exit. 
+The guard reacted immediately, reaching out his hand and
+projecting a disruptive spherical blast of Ionic Shock. The attempted escapee's body went limp, legs collapsing and his weight crashing down the the floor with a thud, their unprotected head hitting the ground with a loud _SPLACK_. With his motor skills completely disabled, he let out no cries of pain or agony. As he lay motionless, his eyes teared and drool escaped from his mouth, his distressed, helpless face yearning for the exit.
 
 The guard glide across the floor to the fallen boy, stopping above his head.
 
@@ -1606,7 +1611,7 @@ Subject 43 walked ahead of the guard accompanied by the sound of the downed pris
 
 Subject 43 walked through the dark corridor in the basement of the battered hospital. The only light was that from the guard's torch, and sparcely placed emergency light fixtures powered by a generator.
 
-The two reached a surgery room which had been retrofitted for the clan's purposes. Instead of a table, a single restraining chair was anchored to the floor. From the high ceilings, a robotic arm hung down, carrying a variety of surgical equipment from inspection lights to stainless steel bone saws. The wall facing the chair was covered in glass, revealing beyond it a staffed observation suite, packed with document laden tables, chairs, monitoring equipment and clipboards. This was one of the few well-lit rooms in what was left of the entire hospital. 
+The two reached a surgery room which had been retrofitted for the clan's purposes. Instead of a table, a single restraining chair was anchored to the floor. From the high ceilings, a robotic arm hung down, carrying a variety of surgical equipment from inspection lights to stainless steel bone saws. The wall facing the chair was covered in glass, revealing beyond it a staffed observation suite, packed with document laden tables, chairs, monitoring equipment and clipboards. This was one of the few well-lit rooms in what was left of the entire hospital.
 
 The blond haired subject 43 intuitively sat in the chair, fastening the buckles around his legs and around his waist. The guard finished strapping his arms in, and the white coated personnel behind the glass shifted their attention to the subject. One of the men with thick glasses and a slick haircut put down their coffee and spoke into the an intercom microphone as the guard left the room.
 
@@ -1622,7 +1627,7 @@ Subject 34 was so lucky to be a low enough level Esper to be disposable. Young a
 
 "Good. Subject 34, why do you fight?" The man shielded by glass asked the loaded question. Subject 34 wouldn't fight if not for his oppressors, but he knew from experience that that was the wrong answer.
 
-"I fight for the clan. I fight to earn our freedom.", Subject 34 cited the canned response. In this concentration camp which produced super soldiers to wipe out the opposition, individuality was forbidden. 
+"I fight for the clan. I fight to earn our freedom.", Subject 34 cited the canned response. In this concentration camp which produced super soldiers to wipe out the opposition, individuality was forbidden.
 
 "Good.", The glassed man reinforced the inception of the clan's ideals. Turning to his associates he gave the command, "Administer the Esperin."
 
@@ -1642,7 +1647,7 @@ The drug fully dispensed into Subject 34's arm, and he started to feel it's effe
 
 
 
- 
+
 The guard re-entered the room, along with another caped Esper. He wore a large brimmed hat and a black blindfold over his eyes. On the fabric, the outline of a single large eye was drawn. As they entered, the glass to the observation room went opaque, tinted dark by a embedded layer of liquid crystal.
 
 The guard and the caped Esper walked up to Subject 34. Still strapped into the chair, the nauseating effects of the Esperin futher affected his body. His head was spinning and he couldn't see straight.
@@ -1679,7 +1684,7 @@ Subject 34's head was spinning. His laboratory surroundings appeared to be stret
 
 In his drugged out state, his feeling of exhaustion was fading at the expense of feeling in control of his own faculties. The disorienting pulsing effect of the Esperin matched with the Physical Translation he had just experienced became too much. 34 vomited on the ground amongst the mountains of rubble.
 
-Keeled over with both hands planted in the particulate, the near constant waves of Esperin swept his mind to a degree that could no longer be ignored. A constant ringing in his ears loudened, a noise that hurt. Covering his hears offered no relief, the waves of blue Esperin within his bloodstream the source. 
+Keeled over with both hands planted in the particulate, the near constant waves of Esperin swept his mind to a degree that could no longer be ignored. A constant ringing in his ears loudened, a noise that hurt. Covering his hears offered no relief, the waves of blue Esperin within his bloodstream the source.
 
 34 cried out, the pain in his head triggering a rage. His muscles in his entire body tensed from the Esperin's pulses resonated within his body. Strained to it's physical capacity, his hair color faded. Feeling an unbearable pressure build up within his body, his gaze shifted to the nearest source of light in the dark.
 
@@ -1709,9 +1714,9 @@ Gunshots and a blast rang out in the night, alerting more of the defenders to 34
 
 A group of militia men came around a corner of wooden shacks among the crumbled city, taking aim at 34. He was standing there, legs shoulder width apart, with hands at the ready. Behind him, the bearded man lay on the ground, killed from another blast of Ionic Shock.
 
-"You're surrounded!", The group of men with guns in hand warned. Their hands shaking at the sight of their fallen comrade. 34 turned to face the group. 
+"You're surrounded!", The group of men with guns in hand warned. Their hands shaking at the sight of their fallen comrade. 34 turned to face the group.
 
-"Put your hands up!" The men yelled to 34. 
+"Put your hands up!" The men yelled to 34.
 
 Surrounded by dozens of guns, 34 brought both his hands upwards.
 
@@ -1761,7 +1766,7 @@ A guard approached the cell door and called out.
 
 "With hard work will you be set free. Congratulations on yesterday's attack. You have earned the next level of freedom!"
 
-34 was surprised. Up until now, he had been treated like trash, used and abused as a consumable tool of the clan. Was this his break? 
+34 was surprised. Up until now, he had been treated like trash, used and abused as a consumable tool of the clan. Was this his break?
 
 "Victory to the clan!", 34 replied, straightening his posture. Maybe this cause wasn't so bad after all.
 
@@ -1769,7 +1774,7 @@ A guard approached the cell door and called out.
 
 The two guards pushed the prisoners forward. With chains around their legs, they stumbled forward and fell to the floor as they attempted to catch themselves. Their hands, chained behind their backs, unable to reach the floor and slow their fall. Their chests hit the ground with a thud as they avoided hitting their heads.
 
-With a troubled look on his face, 34 looked at the head guard. 
+With a troubled look on his face, 34 looked at the head guard.
 
 "Subordinates?"
 
@@ -1795,7 +1800,7 @@ The other guards laughed, backing away from the two tied up men. It wasn't long 
 
 "Damn, any more and he'd only have one subordinate." The guards chuckled.
 
-The head guard stood at the side of the room, observing 34 with his hands behind his back. 
+The head guard stood at the side of the room, observing 34 with his hands behind his back.
 
 "Why do you fight?", the guard inquired, stepping forward.
 
@@ -1843,11 +1848,11 @@ Silence met the room as the masked Esper relaxed his hands. The guard let go of 
 
 "Next Subject, bring 'em in!", the guard yelled towards the hallway.
 
-34 caught himself as the chair disappeared from the normalizing scenery before him. Being physically translated by an Esper while high on Esperin was becoming routine to him, and he wasn't about to fall on his hindside again. The piercing wail of the Esperin had him on edge, reflexes at the ready. 
+34 caught himself as the chair disappeared from the normalizing scenery before him. Being physically translated by an Esper while high on Esperin was becoming routine to him, and he wasn't about to fall on his hindside again. The piercing wail of the Esperin had him on edge, reflexes at the ready.
 
 "I'm in control! This feels amazing!", 34 laughed hysterically, with his mind and his heart racing faster than ever. Looking down the road with empowered vision, 34 spotted fire, smoke and gunfire from the breached stone wall of the human's stronghold.
 
-A few moments passed and 34's subordinates were transported behind him. 34 turned to see them fall on their butts one after another. The battered road they were on was surrounded on three sides by crumbled buildings, the one free side leading up to the human's stronghold. 
+A few moments passed and 34's subordinates were transported behind him. 34 turned to see them fall on their butts one after another. The battered road they were on was surrounded on three sides by crumbled buildings, the one free side leading up to the human's stronghold.
 
 "The human's inner sanctum will be ours!", 34 encouraged his platoon.
 
@@ -1861,19 +1866,19 @@ The other stood and shook silently, glaring at the fortress up the road. He wore
 
 34 knew they wouldn't last long. Their Esper abilities were poor, but their strength brought on by the Esperin should buy some time.
 
-This wasn't a surprise attack like before. The humans were ready, and aware of the clan's aim to eradicate those who lacked or opposed Esper abilities. 
+This wasn't a surprise attack like before. The humans were ready, and aware of the clan's aim to eradicate those who lacked or opposed Esper abilities.
 
 The three ran towards the broken wall as the sounds of gunshots and explosions continued on. The outer defenses had been eliminated, as a few clan Espers brought the fight inside.
 
 34's lackeys climbed up the rubble that was the human's wall, jumping down to the fortress's interior. Looking around, they saw hundreds of dead bodies from either side. Dirtied, malnourished Espers lay alongside bulletproof vest wearing, automatic rifle toting men.
 
-"Filthy low levels. As weak as humans." 34 looked at the carnage in disgust. "Blue jeans, Bandana, seek and destroy!" 
+"Filthy low levels. As weak as humans." 34 looked at the carnage in disgust. "Blue jeans, Bandana, seek and destroy!"
 
 The two inferiers looked back at 34, confirming his orders.
 
 "Yes master.", the blue jeaned man said, as the bandana wearer nodded. They ran for the interior buildings, searching for their prey.
 
-34 was becoming impatient and the Esperin withim him kindled a raging fury. 
+34 was becoming impatient and the Esperin withim him kindled a raging fury.
 
 "I'm going to snuff out every last one of the weak! For the clan!" 34 yelled at the top of his lungs before sprinting after his subordinates.
 
@@ -1881,15 +1886,15 @@ The two inferiers looked back at 34, confirming his orders.
 
 The low level Espers had done more than expected. Most of the human army were at the outer walls, trampled easily by the Astral barrage.
 
-As 34 ran through the alleyways, the shattered homes were empty. 
+As 34 ran through the alleyways, the shattered homes were empty.
 
 "The peasants are hiding! Find them!", 34 yelled ahead to his men.
- 
+
 Running between the ruined homes, the three men bolted towards the city center, emerging into a vacant open marketplace.
 
 A gust of wind blew, blowing a tattered wicker basket on the carefully placed cobblestone. It rolled into an empty wooden selling stand, it's torn cloth awning producing a flapping sound in the gust.
 
-34 and his men stopped for a moment to scan the scene. 
+34 and his men stopped for a moment to scan the scene.
 
 Past the marketplace, a tall stone citadel pierced the night sky with it's four exterior towers. Surrounding the final keep, a thick fortified wall, This structure was ancient, reinforced by modern jersey barriers, razor wire, and steel infused concrete.
 
@@ -1899,17 +1904,17 @@ The base of the citadel was silent. Smoke rose from craters in the ground, surro
 
 "Explosives?", 34 looked back at the wall tops, scanning it's expanse. Between two battlements a soldier's arm was spotted lifting a mortar in hand before dropping it into a tube, emitting a fast puff of spoke.
 
-"Move!" 34 cried out, alerting his subordinates as he dashed forward. A loud blast was heard, sound waves trailing after the sight of it's launch. Mortars, precisely lobbed at distant objects, fly for seconds before meeting the target. The human operators would be know this, and their aim would have to compensate for their target's position seconds from the mortar's launch. 
+"Move!" 34 cried out, alerting his subordinates as he dashed forward. A loud blast was heard, sound waves trailing after the sight of it's launch. Mortars, precisely lobbed at distant objects, fly for seconds before meeting the target. The human operators would be know this, and their aim would have to compensate for their target's position seconds from the mortar's launch.
 
-A howling whistle of the bomb screeched in the sky. Not traveling faster than sound, the bomb would be impacting soon. Did the humans anticipate 34's forward rush, or did they expect him to not notice and stay stationary? 
- 
+A howling whistle of the bomb screeched in the sky. Not traveling faster than sound, the bomb would be impacting soon. Did the humans anticipate 34's forward rush, or did they expect him to not notice and stay stationary?
+
 34 had no time to rationalize. The clock was ticking and a single mortar could kill all three if nothing was done, quick.
 
 34 looked upward as he ran forward, using the Esperin's effect to locate the pin sized bomb against the black sky.
 
-"Ionic. Shock!", 34 pointed both hands at the incoming projectile, using the Esperin's effect to instantly project a massive ball of electricity and sending it soaring. 
+"Ionic. Shock!", 34 pointed both hands at the incoming projectile, using the Esperin's effect to instantly project a massive ball of electricity and sending it soaring.
 
-The mortar collided with the electricity mid-air, it's shell melting instantly inside the field of high voltage sparks. With it's hull compromised, the warhead burst, sending shrapnel to the ground where the three had just stood. 
+The mortar collided with the electricity mid-air, it's shell melting instantly inside the field of high voltage sparks. With it's hull compromised, the warhead burst, sending shrapnel to the ground where the three had just stood.
 
 34 looked to the wall as he continued his dash, eyeing the section where the mortar crew would be hiding.
 
@@ -1927,15 +1932,15 @@ Round after round was swallowed up by the electro magnet that Ionic Shock create
 
 "I like this game!"  34 let out a laughter of evil joy. The rounds kept coming, and 34 could only do one trick at a time. "Bandana, do something about that gunner!"
 
-The bandana wearing lackey nodded, pointing two fingers at the machine gun emplacement as if he were holding a pistol. A small blue summoning circle appeared at the tips of his pointed digits. 
+The bandana wearing lackey nodded, pointing two fingers at the machine gun emplacement as if he were holding a pistol. A small blue summoning circle appeared at the tips of his pointed digits.
 
 "Pow!", The bandana man's voice cracked as he yelled. His arm was shaking from his running movement and from the fear of taking a bullet. His thumb dropped to his index finger, like the hammer of a revolver striking a firing pin.
 
-A rod of wind sourced from the summoning circle at his fingertips. Like a tiny tornado, a vortex of air spiraled from the summoning circle, restricted to a cylindrical vector extruded by the aim of his fingers. Ripping through the air like a bullet, the vortex of air spun towards the machine gunner. Missing completely, the vortex shred deep through a sandbag, briefly leaving a wide hole in the sand before more sand filled it's place. 
+A rod of wind sourced from the summoning circle at his fingertips. Like a tiny tornado, a vortex of air spiraled from the summoning circle, restricted to a cylindrical vector extruded by the aim of his fingers. Ripping through the air like a bullet, the vortex of air spun towards the machine gunner. Missing completely, the vortex shred deep through a sandbag, briefly leaving a wide hole in the sand before more sand filled it's place.
 
 With a long chain of bullets, the 50 continued, 34's field of magnetism filling up with more bullets. The effect of the field began to diminish, encumbered by the increasing pile of bullets.
 
-34 stopped in place, unable to continue. The energy of the bullets was becoming too intense as they closed the gap between the wall. The bullets flew towards 34, getting closer and closer before the magnetism's power slowed the bullet enough to draw it in. 
+34 stopped in place, unable to continue. The energy of the bullets was becoming too intense as they closed the gap between the wall. The bullets flew towards 34, getting closer and closer before the magnetism's power slowed the bullet enough to draw it in.
 
 His subjects stopped as well, looking towards 34 for orders.
 
@@ -1969,7 +1974,7 @@ Blue jeans dashed for the wall, augmenting his sprint with the Esperin's power. 
 
 "88, no!", Bandana called out to his friend as the howling whistle of the bomb made more noise than the gun. Still letting out air vortexes as fast as he could, Bandana continued to miss the recessed operator.
 
-34 smiled, letting the mountain of bullets caught in his electromagnet fly. Focusing the heavy metal upwards and towards the wall, the sides traded hits. 
+34 smiled, letting the mountain of bullets caught in his electromagnet fly. Focusing the heavy metal upwards and towards the wall, the sides traded hits.
 
 Blue jeans took a shot to the heart from the gunner, blood spewing from his back, going limp and dropping to the ground.
 
@@ -2039,7 +2044,7 @@ The words struck 34. Like a slap to the face, 34 was forced to think. It wasn't 
 
 But now was different. 34 may be a strong Esper, but there were stronger who were forcing his hand. The only way out of this mess was from the top of the pyramid. 34 had to become the strongest, only then would he be set free.
 
-Beyond the door were hundreds of women and children. The clan wanted them dead, and 34 was in no position to bargain. It was their lives, or 34's life. 
+Beyond the door were hundreds of women and children. The clan wanted them dead, and 34 was in no position to bargain. It was their lives, or 34's life.
 
 "There's no room for the weak in this world!", 34 had made his choice, and let Ionic Shock fly. The woman closed her eyes tightly, her tears cut off from flowing. In what she thought were her final moments, she turned her head to the side, yet kept her arms stretched, protecting what lay beyond the door.
 
@@ -2047,7 +2052,7 @@ Ionic Shock sped towards the woman like a bowling ball towards a single pin. 34 
 
 No familiar zap was heard, and 34 opened his eyes. Ionic shock hadn't made it's deadly contact, instead it was frozen in place, suspended by some unknown force.
 
-"What's this?!", 34 stared in astonishment at his stopped projectile, while it's electric particles continued to spin. 34 looked at his servant who was equally confused. 
+"What's this?!", 34 stared in astonishment at his stopped projectile, while it's electric particles continued to spin. 34 looked at his servant who was equally confused.
 
 "Is she an Esper?", 34 looked at the elderly woman, her teared up face still wincing in anticipation.
 
@@ -2085,7 +2090,7 @@ The woman stopped meters ahead of 34, as 34 and Bandana stepped back, desperatel
 
 As if the woman had willed it, Ionic Shock and Wind Vortex could no longer be created. As if their Esper abilities had been stripped, 34 and Bandana could no longer create their summoning circles in front of their hands.
 
-"You're no human!" 34 reeled back in terror. "Ionic Shock!", he desperately cried out with both palms forward. 
+"You're no human!" 34 reeled back in terror. "Ionic Shock!", he desperately cried out with both palms forward.
 
 "You're done." the woman decreed. "I've revoked your talents as an Esper."
 
@@ -2139,7 +2144,7 @@ A moment passed while 34 looked in all directions, searching for a person, place
 
 "Where are you!? Show yourself!", 34 demanded.
 
-"I will not. I can tell you're on a mission, wanting only to kill. I'm not going to fight you. Surely you must realize I could end your life in an instant?" 
+"I will not. I can tell you're on a mission, wanting only to kill. I'm not going to fight you. Surely you must realize I could end your life in an instant?"
 
 34 knew it was true. Espers of the clan who could translate other people could kill by moving their target into a wall or under ground. Tsubasa seemed to be able to translate and much more.
 
@@ -2252,7 +2257,7 @@ His eyes widened, letting in the whole view of the room. To his left, Tsubasa-se
 
 "A nap?", Aldo wondered quietly. "How long have I been out?"
 
-Aldo sat up in his bed, and looked around the room. A fresh set of his clothes were neatly stacked on a shelf. Aldo pushed his covers down, swinging his legs out to the side of the bed. He paused to look down at the intraveinous needle in his arm. 
+Aldo sat up in his bed, and looked around the room. A fresh set of his clothes were neatly stacked on a shelf. Aldo pushed his covers down, swinging his legs out to the side of the bed. He paused to look down at the intraveinous needle in his arm.
 
 Aldo removed the medical tape holding the tubes in place, and pulled out the needle. A pool of blood rose from the wound. He stood up and walked to the long desk, helping himself to a cotton swab and tape which he applied to his arm to stop the bleeding.
 
@@ -2310,7 +2315,7 @@ Marth wondered what was up with this girl. Her jet black, shoulder length hair w
 
 "Lace!!" The girl called out as her cheeks went rosy beneath her military spec binoculars. Just then she noticed Marth staring intently. "Oh?"
 
-The girl lowered her large optics to curiously look up at Marth. She glanced over to the girls at the salad bar, then back at Marth. She offered the binoculars to him, her long eye lashes coming together as she smiled. 
+The girl lowered her large optics to curiously look up at Marth. She glanced over to the girls at the salad bar, then back at Marth. She offered the binoculars to him, her long eye lashes coming together as she smiled.
 
 "Schtinarr?" Marth read aloud the brand name on the top of the optics. "Holy shit, those are the real deal!" Marth hastily grabbed the set of eyes, forgetting about the girls. He brought them up to his face, looking through the apertures. "Which model is this? 7X? 8? Wooow, the objective size is incredible! It's even got Mil dots, so cool! Where did you get this?" Marth looked back and forth through the cafeteria, googling over the expensive piece of kit.
 
@@ -2346,7 +2351,7 @@ Marth walked over to the table where she and Tanaka Aoi were sitting.
 
 Marth laughed uncomfortably. "It's really packed in here today."
 
-"You haven't heard? There is supposed to be an announcement during lunch today. Normally lots of students eat outside." Shizuma told the news. 
+"You haven't heard? There is supposed to be an announcement during lunch today. Normally lots of students eat outside." Shizuma told the news.
 
 Tanaka continued to eat her lunch, avoiding eye contact with Marth. Marth dug in as well.
 
@@ -2356,7 +2361,7 @@ The students turned to the small stage at the side of the cafeteria, usually res
 
 "The yearly competition for induction to St. Ezreal's Esperly Order has been rescheduled. Teams of three must enter by the end of tomorrow, and the competition will take place two weeks from today. That is all." Tsubasa-sensei said, before she turned and walked off the stage.
 
-The students in the cafeteria collectively worked themselves up to an outroar. 
+The students in the cafeteria collectively worked themselves up to an outroar.
 
 "What! Why is this happening?"
 
@@ -2364,15 +2369,15 @@ The students in the cafeteria collectively worked themselves up to an outroar.
 
 Shock and confusion spread like a wildfire. St. Ezreal's was known for it's Esper competition, a yearly event which pitted students against students in a simulated battle royale. The event consistently drew large crowds of spectators as the trial determined the highest skilled Esper teams in the school. The award for the top three teams was admittence to the Academy's secondmost prestigious group, the miliatarized St. Ezreal's Esperly Order.
 
-The order was at the pinnacle of Marth's aspirations. In addition to the five pillars, they were the heroes of the school, carrying out humanitarian aid while promoting freedom and justice. 
+The order was at the pinnacle of Marth's aspirations. In addition to the five pillars, they were the heroes of the school, carrying out humanitarian aid while promoting freedom and justice.
 
 Tanaka's jaw dropped as she heard the news. She quickly regained composure, standing up and yelling after Tsubasa-sensei.
 
 "How dare you change the schedule! I demand an explanation!"
 
-Tsubasa-sensei continued walking with her back to the crowd. 
+Tsubasa-sensei continued walking with her back to the crowd.
 
-"Miyu, Miyu! The competition is traditionally at the end of the semester. We first years won't stand a chance if it's only two weeks away!", Tanaka continued her concerned speech as Shizuma Miyu listened anxiously. 
+"Miyu, Miyu! The competition is traditionally at the end of the semester. We first years won't stand a chance if it's only two weeks away!", Tanaka continued her concerned speech as Shizuma Miyu listened anxiously.
 
 "Come on Miyu, we have to get more information. This will not stand!" Tanaka stood up, grabbing Shizuma by the arm.
 
@@ -2382,7 +2387,7 @@ Marth sat behind, finishing the last of his meal. Many of the students in the ca
 
 "I picked the right year to cheat on the entrance exam!" Marth chuckled as he wiped his hands on his napkin.Marth had returned the trays from his table and left the cafeteria. With the mysterious girl's binoculars in his book bag, Marth passed by the yard. The water from the fountains was glistening in the sun beyond the tall hedges. With the administration building to his right, Marth glanced over, wondering about the teacher he had carried there.
 
-Marth looked to the Astral Science Studies building, the same building he had taken the entrance exam from. 
+Marth looked to the Astral Science Studies building, the same building he had taken the entrance exam from.
 
 "The auditorium is so large..." Marth's plan for the next period was forming.
 
@@ -2426,7 +2431,7 @@ They were both on their bellies, laying side by side with their legs stretch out
 
 "Target sighted. 1250 meters." The girl spoke as she peered towards the campus through an opening in the tall grass.
 
-Puzzled, Marth pushed the tall field grass to either side, trying to catch a glimpse at what she was talking about. 
+Puzzled, Marth pushed the tall field grass to either side, trying to catch a glimpse at what she was talking about.
 
 "Here", the girl offered her binoculars.
 
@@ -2452,7 +2457,7 @@ Marth quickly looked through the binoculars in his hands. The laser instantlty s
 
 "Hey, hey, find me another target!" The skirt bursting girl asked of Marth.
 
-"Eye, eye, captain!" Marth sat up straight to salute his pervy superior before snapping back to view through the binoculars. 
+"Eye, eye, captain!" Marth sat up straight to salute his pervy superior before snapping back to view through the binoculars.
 
 "1.3 kilometers. 10 o'clock low. Notable mirage, offset 12%", Marth called out the target.
 
@@ -2466,7 +2471,7 @@ The lazer hit it's mark, zapping the white tulip from the girl's hips. As she wa
 
 The two skirt snipers lay back, eyes glassed over and losing fountains of blood from the sight. As Marth lay there twitching, Something in his pants began to overheat.
 
-"So smoothe!" Marth said with slurred speech as his pocket became hotter. Hotter and hotter, a burning sensation increased so much that Marth was jolted from his dream, the pain receptors in his leg inciting a twitch. 
+"So smoothe!" Marth said with slurred speech as his pocket became hotter. Hotter and hotter, a burning sensation increased so much that Marth was jolted from his dream, the pain receptors in his leg inciting a twitch.
 
 Marth's eyes opened as he look down at the right pocket of his pant leg. It was glowing a hot white, and something inside was burning his thigh.
 
@@ -2490,13 +2495,13 @@ Marth's view faded from the dark interior of the Administration buildiing to the
 
 Marth dropped the red hot pail holding the white hot card as it's heat travelled up the wire handle. Although the card was made of paper, it didn't seem to show any damage from the intense heat.
 
-Yoshida-sensei looked over to Marth as the pail hit the floor with a echoey thud. She promptly rolled her chair away from the desk and stood up. 
+Yoshida-sensei looked over to Marth as the pail hit the floor with a echoey thud. She promptly rolled her chair away from the desk and stood up.
 
-"Marth-chan, What happened?!" 
+"Marth-chan, What happened?!"
 
 "Starry notif happened!" Marth pointed to the pail with the glowing hot card. "Are you _trying_ to kill me?"
 
-"My oh my!" Yoshida walked to the pail, staring down at the heated content. 
+"My oh my!" Yoshida walked to the pail, staring down at the heated content.
 
 "This isn't right!", Yoshida sensei said with a concerned look on her face. "Starry Notif only reaches 44° celcius and expires in 10 seconds!"
 
@@ -2512,13 +2517,13 @@ The doctor didn't respond. She held her eyes and mouth closed as the lights in t
 
 Marth continued to stare, wondering. His view of the room behind Yoshida began to warp as if it were being viewed through a slowly rotating mirror. Connected sections of wall panels ceased to form straight lines, but began to angle themselves, becoming three dimentional facets like that of a crystal. The surfaces glistened in the flickering light, giving off a smooth, shiny finish. The effect expanded to the left and right of Yoshida, the whole room beginning to feel like a gleaming, glassy tunnel.
 
-"Yoshida-sensei! You're pulling me into your projection!" Marth cried out, concerned for his safety. 
+"Yoshida-sensei! You're pulling me into your projection!" Marth cried out, concerned for his safety.
 
 During a projection, the projector must clear their mind of all thoughts save for the task at hand. This warping of space around Yoshida looked like an amateur mistake, the creativity of her Astral realm interfering with her and Marth's shared reality. It was strange to see a sensei slipping up like this. Was this a flaw of hers? Had she mis-projected Starry Notif before placing it in a card?
 
 The elongated infirmary room, newly shiny and faceted from Yoshida's projection, began to slither like a giant crystalline worm. With Marth and Yoshida in it, the floor abruptly moved. Marth struggled to keep his footing as the floor on which he stood tilted backwards. Marth caught himself, leaning forward just in time to not fall behind. The hospital beds began to slide as the writhing room's surfaces expanded and contracted in a melodic rhythm.
 
-"Yoshida!" Marth called out again as he was forced to his hands and knees by the muscular movement of a section of the hard blue crystal floor. The room was becoming more worm-like, the four discreet sections of walls, floor, and ceiling merging into a hollow crystal cyllinder. The pail with burning place card, Yoshida's desk, the hospital beds, and curtains became absorbed into the crystal, their features remaining only as two dimentional images in the faceted surfaces. 
+"Yoshida!" Marth called out again as he was forced to his hands and knees by the muscular movement of a section of the hard blue crystal floor. The room was becoming more worm-like, the four discreet sections of walls, floor, and ceiling merging into a hollow crystal cyllinder. The pail with burning place card, Yoshida's desk, the hospital beds, and curtains became absorbed into the crystal, their features remaining only as two dimentional images in the faceted surfaces.
 
 As the source of the phenomenon, the doctor stood unmoved, anchored to the room. On her face, she held her meditative expression and her hands continued to gently grasp her stethoscope.
 
@@ -2536,11 +2541,11 @@ Marth's view tunneled on the large green eye. It had long black eyelashes active
 
 Marth wanted to scream, but somehow his voice was unable to escape his mouth. Frozen in place, the large eye seemed to look into his soul, rapidly shifting it's gaze as it looked over Marth, top to bottom.
 
-Marth closed his eyes, wanting this experience to stop. As he did so, the Goa music ceased. 
+Marth closed his eyes, wanting this experience to stop. As he did so, the Goa music ceased.
 
 "Did Yoshida stop projecting?" Marth opened one eye cautiously.
 
-The infirmary room was back to normal. The walls, floor, ceiling, beds and curtains were back in place. Marth was standing where he had been before hastily approaching Yoshida. 
+The infirmary room was back to normal. The walls, floor, ceiling, beds and curtains were back in place. Marth was standing where he had been before hastily approaching Yoshida.
 
 Yoshida was back in her chair, with legs crossed and pen and clipboard in her hands. With no sign of her third eye, she looked up from her glasses at Marth every few seconds, jotting down notes.
 
@@ -2596,7 +2601,7 @@ Marth's knees buckled and he held out his hands in shock.
 
 "Yes, Marth, someone was with you and they pulled the card from your pants."
 
-Marth collapsed to the floor at the mental burden. 
+Marth collapsed to the floor at the mental burden.
 
 "You mean I had my first time in bed with a hot girl, and I wasn't awake for it?!" Marth began to pant heavily as his mind began to race. "A girl was digging in my pants, but I was asleep? What if word gets out, that I can't stay awake during romantic encounters?! Was the person even a girl? What if it was a boy? Oh no, what if I can't get a date because of this? Will I be celibate for my entire life? I might as well kill myself now!" A bead of sweat formed on Marth's forehead as his mind wandered.
 
@@ -2622,7 +2627,7 @@ Marth wondered if Yoshida-sensei was trying to cover her own mistake, but kept l
 
 "Thermite on steroids!" Marth's eyes lit up.
 
-"Marth-chan, don't get any bad ideas!" Yoshida's bubbly personality returned as she bonked Marth's head with a meter stick. 
+"Marth-chan, don't get any bad ideas!" Yoshida's bubbly personality returned as she bonked Marth's head with a meter stick.
 
 "Yoshida-sensei, if your card can't be modified once it's projection is initially sealed, doesn't that mean you just made a mistake?" Marth asked the obvious, rubbing his head.
 
@@ -2672,7 +2677,7 @@ Yoshida composed herself, sitting back down in her chair.
 
 ---
 
-Marth walked back towards the dorm with his hands in his pockets as the sun was setting. 
+Marth walked back towards the dorm with his hands in his pockets as the sun was setting.
 
 "Ahh, my adrenaline was pumping. I'm not ready to go back to the dorms now." Marth looked towards the yard, the gentle white noise of it's water fountains evoking a feeling of relaxation.
 
@@ -2686,7 +2691,7 @@ Amber sky turned to a deep starry blue as the Sun set further. Marth exhaled, br
 
 The stars in the sky were starting to become more visible within the dim lit yard. A distant twinkling was seen.
 
-"If I do nothing, I can stay here forever!" Marth had the epiphany. He was already learning so much by sneaking into classes. The situation was ripe for milking. 
+"If I do nothing, I can stay here forever!" Marth had the epiphany. He was already learning so much by sneaking into classes. The situation was ripe for milking.
 
 "Watanabe? Is that you?" An all too familiar voice beckoned. Marth turned to see Tsubasa-sensei approaching.
 
@@ -2720,7 +2725,7 @@ Tsubasa loosened her neck and shoulders, relaxing the stony expression on her fa
 
 "I know that. Most of the Pillars know that. The problem is that you're a capable proxy. Your existence is forbidden."
 
-"But we'll catch them, right? Your proxy kicks ass, we just have to wait until the bad guy tries to use me again!" Marth stood up, wildly gesturing his arms in front of him. 
+"But we'll catch them, right? Your proxy kicks ass, we just have to wait until the bad guy tries to use me again!" Marth stood up, wildly gesturing his arms in front of him.
 
 "It's not that simple. The Nemesis of Time culprit has all the time in the world to wait for us to let down our guard. Meanwhile, the Pillars and Guard cannot conduct meetings with any expectation of privacy."
 
@@ -2760,7 +2765,7 @@ Marth promptly stood, respectfully lowering his head to bow at Tsubasa.
 
 Miyagi Riko sat wearing fuzzy yellow pajamas with legs at her side on the tatami mats of her dorm floor. Needle and thread in hand, she sewed the shoulder seam of a yellow bunny costume atop the room's center chabudai table. Sato Hanna sat in a chair at the side of the room, brushing her hair in front of a well lit vanity mirror.
 
-"Hanna, have you decided who you want on your team this year?" Miyagi asked with sleepy eyes locked on her stitches. 
+"Hanna, have you decided who you want on your team this year?" Miyagi asked with sleepy eyes locked on her stitches.
 
 "I.. hadn't thought of it yet." Hanna replied. Her hand paused for a moment as she looked to her side.
 
@@ -2778,7 +2783,7 @@ Miyagi Riko sat wearing fuzzy yellow pajamas with legs at her side on the tatami
 
 "Your secret's safe with mee!" Riko smiled from ear to ear, picking up her costume and continuing to sew.
 
-Hanna kept her face turned towards the mirror, slowing her brushing. 
+Hanna kept her face turned towards the mirror, slowing her brushing.
 
 "I mean, if I did like someone, he'd probably be tall and handsome, and completely inelligibile for the competition as he'd already be in the Esperly Order. The only boys available are good for nothing perverts!" Hanna slipped out the words, red in her wincing face.
 
@@ -2788,7 +2793,7 @@ Marth arrived back at the door of his room. As he opened the door to his private
 
 ---
 
-Marth's day began at 4:30AM. The sun had yet to rise on the elegant campus, as dew drops formed on the unlit blades of grass. Marth was in blissful dream land, fast asleep on his back, with mouth wide open and a bubble of spit on his lips. 
+Marth's day began at 4:30AM. The sun had yet to rise on the elegant campus, as dew drops formed on the unlit blades of grass. Marth was in blissful dream land, fast asleep on his back, with mouth wide open and a bubble of spit on his lips.
 
 Tsubasa-sensei kicked in the door.
 
@@ -2816,7 +2821,7 @@ The administration building was darker than ever, with not a shred of light shin
 
 "Watch your step." Tsubasa warned as the two climbed the short stairset to the stage.
 
-As soon as Marth's trailing foot touched down on the stage's surface, the dark surroundings shifted to a bright green sky. 
+As soon as Marth's trailing foot touched down on the stage's surface, the dark surroundings shifted to a bright green sky.
 
 "The mine!" Marth recognized the surrounding quarry on the planet with two suns. Marth walked to a pickaxe leaning against a boulder and picked it up. "I didn't think this is what you had in mind when you said you were going to get me fit for combat."
 
@@ -2836,7 +2841,7 @@ Marth looked up at the wall beneath the perfectly clear green sky.
 
 "Wrong." Tsubasa shook her head.
 
-"What do you mean, wrong? It would work wouldn't it?" 
+"What do you mean, wrong? It would work wouldn't it?"
 
 "You're in a battle. A pit was projected below you, and you fell to it's bottom. How would you get out?"
 
@@ -2868,7 +2873,7 @@ Tsubasa threw the card out in front of her towards Marth with her right hand, as
 
 "Whoah!" Marth cried out, startled at the card as he dove to the ground to avoid whatever projection it contained.
 
-The card flew edge first out in front of Tsubasa, before it suddenly stopped in place, mid-flight. Hovering in space, the card quickly rotated before coming to a stop with it's face oriented in the original direction of flight. 
+The card flew edge first out in front of Tsubasa, before it suddenly stopped in place, mid-flight. Hovering in space, the card quickly rotated before coming to a stop with it's face oriented in the original direction of flight.
 
 The graphic on the face of the card showed what looked like a soap bubble, spherical and transparent. The floating card began to vibrate rapidly.
 
@@ -2896,13 +2901,13 @@ Marth struggled to balance on the slope, naturally sliding toward's it's lowest 
 
 "Fire." Tsubasa calmly articulated.
 
-A burst of hot flames eruped from the card below the bubble shield, sending the bubble flying straight upwards along the quarry wall. 
+A burst of hot flames eruped from the card below the bubble shield, sending the bubble flying straight upwards along the quarry wall.
 
 Marth lost his footing again and again, rolling back and forth in the bubble's interior as Tsubasa calmly stood upwards. The ball continued to ascend, rapidly pushed upwards by the firey hot air bred from the flames.
- 
+
 "Tsubasaaaa, I'm too young to dieee!" Marth gripped Tsubasa's legs.
 
-The flames below died out, no longer propelling the bubble shield as it slowed down. As the bubbleshield's vertical speed decreased, the shield began to open up from the top, in similar fashion as it's creation. 
+The flames below died out, no longer propelling the bubble shield as it slowed down. As the bubbleshield's vertical speed decreased, the shield began to open up from the top, in similar fashion as it's creation.
 
 "Tsubassa, the shield is breaking down!" Marth screamed in terror. "We're going to fall to our deaths!"
 
@@ -2916,7 +2921,7 @@ Tsubasa hopped forward, grabbing Marth by the back of his shirt.
 
 "Ahh!" Marth was surprised at Tsubasa's actions as she pulled Marth onto solid ground from the vanishing bubble. Marth fell to his hands and knees, shaking from the experience.
 
-"Now do you understand?" Tsubasa asked Marth. 
+"Now do you understand?" Tsubasa asked Marth.
 
 The Place Card which had been contained within ceaced vibrating, falling back and forth like a benign piece of paper. Tsubasa placed her left hand above her card pouch and flicked her thumb downwards, locking the clasp.
 
@@ -3038,7 +3043,7 @@ Tsubasa walked into an open area at the base of the gulley, surrounded on all si
 
 "That's good." Tsubasa put her hands on her hips. "As for the allowed types, anything goes, so long as direct attacks are of the non-lethal variety."
 
-"Okay?" Marth was aware of the rules. The competition was a regular spectator event aired on TV. 
+"Okay?" Marth was aware of the rules. The competition was a regular spectator event aired on TV.
 
 Tsubasa bent her knees and leaned slightly forward, reaching her right hand across her body to join her left hand at her card pouch.
 
@@ -3048,13 +3053,13 @@ Tsubasa bent her knees and leaned slightly forward, reaching her right hand acro
 
 Tsubasa drew a card from the pouch's opening concealed by her left hand so fast that Marth couldn't see the artwork. Throwing the card out at Marth with no twist of the wrist, the card halted instantly after leaving Tsubasa's fast flicking fingers, sending a massive burst of hot air flying towards Marth.
 
-Marth braced, not having prepared a defense for such an attack.  The air blew Marth's hair and clothes back as the hot gust kicked up dirt and pebbles. Marth held his arms in front of his face, guarding from the debris. 
+Marth braced, not having prepared a defense for such an attack.  The air blew Marth's hair and clothes back as the hot gust kicked up dirt and pebbles. Marth held his arms in front of his face, guarding from the debris.
 
-"A wind place card?" Marth thought to himself has he tried to keep track of Tsubasa's inventory. 
+"A wind place card?" Marth thought to himself has he tried to keep track of Tsubasa's inventory.
 
 Marth looked up from his shielded position expecting Tsubasa to be charging towards him under the cover of the blast of wind. Instead, Marth saw nothing but the scattered dust of planet's regolith.
 
-"An aerial attack!" Marth hypothesized, immediately ducking and rolling to his left. 
+"An aerial attack!" Marth hypothesized, immediately ducking and rolling to his left.
 
 Tsubasa's steel toed boots slammed into the ground where Marth had just been, creating two craters in the dry regolith.
 
@@ -3078,22 +3083,22 @@ Tsubasa drew a card from her pouch, concealing it with her left hand as she thre
 
 The colorless body's final transformation was to convert it's colours and proportions to form a perfect spacial replica of Tsubasa, armor and all.
 
-The copy dashed towards Marth, sprinting as the real Tsubasa followed behind, doing the same. 
+The copy dashed towards Marth, sprinting as the real Tsubasa followed behind, doing the same.
 
 "My path to victory..." Tsubasa's words echoed in Marth's mind as she and her copy raced towards him. "I'm outnumbered, outskilled, and outgunned. All the odds are in her favor." Marth figured his situation was looking grim.
 
 "...But I'm not about to die." Marth decided as he shifted his focus to his survival. Tsubasa and her copy drew even nearer. Marth concentrated on Tsubasa and her copy's form. "No weapons, no cards. Are they planning to drop-kick me?" Marth remembered the copy. "Her counterpart isn't alive, as that would violate the St. Ezreal's rules of engagement. It must be a doll then, animated to match the movements of a person. She's using her doll as a shield. She'll force me to react to her doll's attack while her self attacks me from behind."
 
-The Tsubasa in front leaped in to the air, preparing for a 
-heavy drop kick. 
+The Tsubasa in front leaped in to the air, preparing for a
+heavy drop kick.
 
 "Pfft, the doll distraction, one of the oldest tricks in the book. I'm not about to fall for that." Marth ignored the flying Tsubasa, instead turning to the right to face the second Tsubasa who had circled around.
 
-"The doll is nothing but a series of light reflections, it won't have much mass" Marth thought aloud, bending his knees and brought up his fists. to face the second Tsubasa head-on. 
+"The doll is nothing but a series of light reflections, it won't have much mass" Marth thought aloud, bending his knees and brought up his fists. to face the second Tsubasa head-on.
 
 With a crash and a thud, the steel toed boots of the flying Tsubasa fell down on Marth's back, her weight knocking Marth off his feet, falling face first into the ground.
 
-The second Tsubasa stopped in place, looking down at the real Tsubasa sitting ont he ground with her legs atop Marth's back. 
+The second Tsubasa stopped in place, looking down at the real Tsubasa sitting ont he ground with her legs atop Marth's back.
 
 "What the hell? The first Tsubasa was just a doll!" Marth was confounded.
 
@@ -3135,7 +3140,7 @@ Marth wiped the dusty particulate from his clothes.
 
 Marth thought a moment about how he would proceed. Again the thought of quitting in the face of one of the strongest Espers came up, but was quickly dismissed as Marth focused on what he could do in the moment.
 
-"Resonant Wave!" Marth cried out with both palms pointed towards Tsubasa. Aided by the nearby Admiriate, a large blue summoning circle took form at hils palms, vibrating intensely. 
+"Resonant Wave!" Marth cried out with both palms pointed towards Tsubasa. Aided by the nearby Admiriate, a large blue summoning circle took form at hils palms, vibrating intensely.
 
 "First, I'm going to level the playing field, by forcing you to take off that stupid armor!" Marth called out as his resonant wave targed the hardened steel atop Tsubasa's chest.
 
@@ -3157,7 +3162,7 @@ Tsubasa let out a laugh and she held her stomach.
 
 "Yes, you already know. Your projection originating in your imagination is brought into our shared reality through your conscious mindfulness. But what happens when your projection directly alters my own personal reality?"
 
-"I don't know, the same thing that would happen if I projected to a tree. It would heat up!" Marth jumped to conclusions. 
+"I don't know, the same thing that would happen if I projected to a tree. It would heat up!" Marth jumped to conclusions.
 
 "A likely scenario." Tsubasa agreed. "However, I'm not a tree. I'm an Esper."
 
@@ -3171,7 +3176,7 @@ Tsubasa shook her head. "Marth, are you aware of the projection, Etherial Void?"
 
 Marth laughed uncomfortably. "The battle would be over very quickly."
 
-"Exactly. As Espers who can produce incredible weapons only with our minds, we must always be aware of the possibility that such a weapon could be used on us. With this fact alone in mind, it serves as a most basic barrier shielding us from direct attacks on our personal realities from outside Espers." 
+"Exactly. As Espers who can produce incredible weapons only with our minds, we must always be aware of the possibility that such a weapon could be used on us. With this fact alone in mind, it serves as a most basic barrier shielding us from direct attacks on our personal realities from outside Espers."
 
 "You mean just by being aware of the fact that I may direcly alter your personal reality, your personal reality is safe?"
 
@@ -3195,9 +3200,9 @@ Marth took a step back, lowering his hand from his chin. Resuming his crouching 
 
 "Resonant Wave!" Marth cried out, as he projected a spherical field of the resounding attack out in front of his palm. Marth continued sprinting towards Tsubasa and her doll, leaving a trail of dust behind him.
 
-Tsubasa bent her knees, placing both hands at the ready on her card pouch. 
+Tsubasa bent her knees, placing both hands at the ready on her card pouch.
 
-"A counter-attack?" Marth reasoned as he sped closer. "She's really not making this easy for me." 
+"A counter-attack?" Marth reasoned as he sped closer. "She's really not making this easy for me."
 
 Tsubasa threw a card quickly drawn from her card pouch. Responding immediately, Marth abruptly pushed his summoning circle forard, throwing his Resonant Wave field towards Tsubasa as his summoning circle dissolved. Marth dove to the left, tumbling into a summersault as Tsubasa's Place Card emitted a percussive burst of red hot flames, Marth narrowly avoiding it's path.
 
@@ -3205,7 +3210,7 @@ Tsubasa reacted as well, jumping laterally to her left to avoid the Resonant Wav
 
 Marth concluded his roll, transitioning smothely to his feet as he stood up and came to a stop. Breathing deeply, Marth stared at Tsubasa, reconsidering his method of attack.
 
-"Resonant... Wave!" Marth called out the projection, creating a 50 centimeter summoning circle in front of his right hand, and producing a Resonant Wave field of equal size. Marth pushed his open palm forard immediately, launching the sphere at Tsubasa. 
+"Resonant... Wave!" Marth called out the projection, creating a 50 centimeter summoning circle in front of his right hand, and producing a Resonant Wave field of equal size. Marth pushed his open palm forard immediately, launching the sphere at Tsubasa.
 
 "Trying that again?" Tsubasa reached for her card pouch.
 
@@ -3275,7 +3280,7 @@ Tsubasa looked into the distance, smiling.
 
 "Marth, I like you." She spoke.
 
-Marth was caught off guard. 
+Marth was caught off guard.
 
 "Uh, I... Like you too? I mean as a teacher. At least when you're not teasing me anyway." Marth struggled with his response.
 
@@ -3287,7 +3292,7 @@ Marth was caught off guard.
 
 "Ok then." Marth changed the subject to a burning question. "Would you mind telling me how you weren't actually hit by my Resonant Wave?"
 
-Tsubasa turned to Marth, smiling. "It's a secret!" 
+Tsubasa turned to Marth, smiling. "It's a secret!"
 
 "Gosh, I thought you were here to teach me!" Marth waved his hands in the air. "At least tell me if I'm wrong then." Marth tried to negotiate.
 
@@ -3383,7 +3388,7 @@ Marth flipped the card to it's opposite side. Freshly imprinted, the academy's d
 
 "Aww, I don't even get the Academy's NEWS feed? Even guests get that."
 
-"Remember our deal, Marth." Tsubasa reminded. 
+"Remember our deal, Marth." Tsubasa reminded.
 
 "I know, I know. two weeks of constant projection practice." Marth pouted.
 
@@ -3419,7 +3424,7 @@ Tsubasa opened one eye, and couldn't help but smile a little.
 
 Tsubasa walked up to Marth, with something clutched in her hand, she reached it out to Marth. Marth held out his hands and Tsubasa delivered a tall stack of empty place cards.
 
-Tsubasa took a step back and put her hands on her hips. 
+Tsubasa took a step back and put her hands on her hips.
 
 "You're falling behind, get back to work!!" Tsubasa ordered.
 
@@ -3505,7 +3510,7 @@ Tsubasa smiled.
 
 With eyes closed, Tsubasa exhaled deeply before speaking.
 
-"Being an Esper means choosing a side and honoring ideals. Our battles may be for the right reasons, but that doesn't change the fact that we take lives. It's dirty work, I feel no glory in it." 
+"Being an Esper means choosing a side and honoring ideals. Our battles may be for the right reasons, but that doesn't change the fact that we take lives. It's dirty work, I feel no glory in it."
 
 "This doesn't make sense." Marth put his hand on his chin. "Most stories of Espers are bristling with a sense of righteousness, duty, and strength. But you're telling me you don't feel a sense of accomplishment?"
 
@@ -3517,7 +3522,7 @@ Tsubasa looked at the ground for a few moments before shaking her head and laugh
 
 "I lost track of time. It's almost 10PM already! I think this is a good point to call it a day."
 
-Marth looked up at the sky, the bright sun shining down from the green sky. 
+Marth looked up at the sky, the bright sun shining down from the green sky.
 
 "Oh yeah, I almost forgot. 24/7 sunshine on this planet!" So busy with his training, Marth hadn't though to check the time all day.  
 
@@ -3565,7 +3570,7 @@ Marth struggled to his feet and he jotted after his sensei among the disparate m
 
 ---
 
-Tsubasa and Marth ate in the cafeteria under it's vaulted brick ceiling. It was late, but a few students were scattered throughout the mess hall, having a bite to eat or studying with their notebooks spread across the table. 
+Tsubasa and Marth ate in the cafeteria under it's vaulted brick ceiling. It was late, but a few students were scattered throughout the mess hall, having a bite to eat or studying with their notebooks spread across the table.
 
 "I'll be going ahead." Tsubasa put down her chopsticks and stood with her empty tray.
 
@@ -3583,7 +3588,7 @@ Marth closed his eyes for a moment, enjoying the moment as he chomped his food. 
 
 "You there! I've been looking all over for you. Where on earth have you been?!" An girl's upset voice rang in Marth's ears.
 
-With food still in his mouth, Marth opened one eye to see Tanaka Aoi with an angry expression. Hands on her hips Tanaka was bent over, leaning towards him. 
+With food still in his mouth, Marth opened one eye to see Tanaka Aoi with an angry expression. Hands on her hips Tanaka was bent over, leaning towards him.
 
 "Well, what do you have to say for yourself? Keeping a lady waiting, what gives?" Tanaka persisted.
 
@@ -3605,11 +3610,11 @@ Tanaka grumbled, increasing the pitch of her voice until she seemed to burst. Wi
 
 "What was that all about?" Marth thought to himself as he picked up the folded piece of paper. Unfolding the document revealed a hand-written note.
 
-"Dear Tanaka Aoi, 
+"Dear Tanaka Aoi,
 
 I have been watching you for some time, and I think the ribbon you wear in your hair is super cute. I would love to have you join me for a night on the town. I hear the nearby festival has some wonderful crepes! It's this Friday evening. If you would join me, I'll be waiting in the cafeteria.
 
-Yours Truly, 
+Yours Truly,
 
 
 Watanabe Marth"
@@ -3619,7 +3624,7 @@ Marth read aloud the note in shock and disbelief.
 
 "I didn't write this!"
 
-Marth stood up, looking quickly from left to right for any sign of Tanaka. 
+Marth stood up, looking quickly from left to right for any sign of Tanaka.
 
 "I have to apologize. She seemed really upset."
 
@@ -3671,7 +3676,7 @@ With arms crossed, Tanaka closed her eyes, lifting her chin and facing the windo
 
 "Yay!" Tanaka smiled for what seemed like the first time, giving off a rosy red aura of genuine delight.
 
-"Whoah." Marth thought to himself as he took the seat next to Tanaka. "She's actually more cute than the ribbon." Marth eyed her blue ribbon holding her long brown hair. 
+"Whoah." Marth thought to himself as he took the seat next to Tanaka. "She's actually more cute than the ribbon." Marth eyed her blue ribbon holding her long brown hair.
 
 Tanaka lifted her feet one after another, happily swinging them forward in the limited space behind the next row. "C-re-p-s! Crepes crepes crepes!" she softly sang with a smile.
 
@@ -3685,7 +3690,7 @@ Marth chuckled as the bus drove down the campus hill towards the city. The road 
 
 Marth wondered for a moment before feeling a sinking feeling in his stomach. Since his arrival at the start of the semester, under the threat of death, he hadn't been allowed to leave.
 
-"Yeah, something like that." Marth laughed uncomfortably. "Tsubasa's going to kill me!" Marth thought to himself as a cold bead of sweat formed on his forehead. 
+"Yeah, something like that." Marth laughed uncomfortably. "Tsubasa's going to kill me!" Marth thought to himself as a cold bead of sweat formed on his forehead.
 
 "Look! There's the festival! The whole street is lit up!" Tanaka pointed down at a street lit up brighter than the rest. The city grid shown bluish white light, but the festival seemed to glow a firey amber hue.
 
@@ -3713,7 +3718,7 @@ Marth blushed at the comment as Tanaka hid behind him.
 
 Marth looked at Tanaka who was hiding her face from the man, then at the attendant who was beckoning them to play.
 
-"Come on now, you look like a strapping young man. 
+"Come on now, you look like a strapping young man.
 Three tries for five dollars. Twelve tries for ten!" The attendant smiled from ear to ear.
 
 Tanaka buried her face in Marth's back.
@@ -3722,7 +3727,7 @@ Tanaka buried her face in Marth's back.
 
 Tanaka kept her gaze low to the ground but smiled as she followed Marth through the crowd.
 
-"Are you alright?" Marth asked as he slowed his pace and looked back at Tanaka. 
+"Are you alright?" Marth asked as he slowed his pace and looked back at Tanaka.
 
 Tanaka pulled back her hand from Marth's grip, shaking her head and waving her freed hand in front of her face.
 
@@ -3731,7 +3736,7 @@ Tanaka pulled back her hand from Marth's grip, shaking her head and waving her f
 "Well, we're here!" Marth gestered to the stall they had arrived at.
 
 "Crepes!" Tanaka's eyes widened at the smell wafting from the dazzling yellow colored tent. A smiling curly haired cook was pouring a ladel of batter onto a hot circlar griddle.   
-   
+
 The inviting aroma from the cooking pan hit Marth's nostrils. In the mouthwatering moment, it took all of Marth's concentration to upkeep Hyper Dragon Eye in the back of his mind.  
 
 Captivated by the essence, Marth immediately turned to Tanaka.
@@ -3760,7 +3765,7 @@ Marth sat up, curious as to who would be making a conversation at this moment. T
 
 "It's you! Oh, hey!"
 
-Tanaka sat up as well, curious as to who Marth was talking to. 
+Tanaka sat up as well, curious as to who Marth was talking to.
 
 "Marth, do you know this girl?"
 
