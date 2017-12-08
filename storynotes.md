@@ -31,7 +31,7 @@
 * Thanks to Aldo, Evil esper figures out there is a trap, so they start following Marth.
 * Nishi Hotaru gets Marth in trouble in the cafeteria
 * Nishi Hotaru sneaks into Marth’s room and cuddles with him as he sleeps.
-* Nishi Hotaru modifies Yoshida-sensei’s place card in Marth’s pocket 
+* Nishi Hotaru modifies Yoshida-sensei’s place card in Marth’s pocket
 * Tsubasa-sensei sends Marth to the mine cus she's busy and shit
 * Marth gets bored/fed up during work and tries to remove the proxy
 * Marth accidentally removes his affinity for women (see notes below)
@@ -46,14 +46,15 @@
   * [ ] gives marth some freedom (training) so Marth will Astral project
 * Marth asks for a better room/bed because he may die in 2 weeks.
   * [ ] Tsubasa says no, and that he shouldn’t give up and if he wins the competition he’ll get a better room *and* a special treat.
-  * [x] Tsubasa explains personal reality shields. 
+  * [x] Tsubasa explains personal reality shields.
   * [x] Tsubasa explains that personal realities have to be attacked indirectly through shared reality.
 * [x] bath scene.
 * Tsubasa trains Marth
 * [ ] Marth does something stupid that attracts the Evil Esper (Nishi Hotaru)
 * [ ] Evil Esper (EE) (Nishi Hotaru) reveals self to Marth, along with their team of Espers & their scheme
   * [ ] One EE uses a difficult projection every day, storing it’s effect in a deck of place cards. This allows them to cast difficult projections rapid-fire during conflicts, but they run out of “ammo”
-  * 
+* [x] Rude cliff hanger!  
+
 
 
 ## Story Plot
@@ -82,7 +83,7 @@ Tsubasa-sensei sends Marth to the mine whenever she doesn't want to supervise hi
 
 ### Marth's affinity for women (Astral Realm)
 
-the features quickly changed from natural to man made, opening up to a grand hallway with red carpets. Instead of stalactites, chandeliers hung down from Marble ceilings. The walls and floors were marble too, and the hallway extended further than Marth could even see. Marble walls were plastered with erotic paintings that made Marth drool. A never ending hallway featuring images of lustful women. Was this heaven? 
+the features quickly changed from natural to man made, opening up to a grand hallway with red carpets. Instead of stalactites, chandeliers hung down from Marble ceilings. The walls and floors were marble too, and the hallway extended further than Marth could even see. Marble walls were plastered with erotic paintings that made Marth drool. A never ending hallway featuring images of lustful women. Was this heaven?
 
 
 ### Marth the poser
@@ -94,7 +95,7 @@ barely avoided detection by posing as an absent student. This cover would only l
 
 Tsubasa-sensei's plan was for me to work in the mine all week. Her plans fell through when I finished that work in one day! She's busy with school today, so I'm as free as a bird! Marth quickly cast Physical Manifestation and created a suit of armor for himself. He trotted into school and found Shiro Neko. "Shiro Neko!" She looked up and puked.
 
-"Do you got a hair ball, Shiro-Neko?" Marth pulled out his hankerchief and wiped ShiroNeko's face, then patted her on the head. "there, there, cutie pie, it'll be ok". Marth knelt down and gently pet ShiroNeko's head as she lay in his lap. 
+"Do you got a hair ball, Shiro-Neko?" Marth pulled out his hankerchief and wiped ShiroNeko's face, then patted her on the head. "there, there, cutie pie, it'll be ok". Marth knelt down and gently pet ShiroNeko's head as she lay in his lap.
 
 A look of overjoyement was on Marth's face as ShiroNeko quietly napped there.
 
@@ -169,7 +170,7 @@ Remote notification method via Place Card. Takes the form of a painting of a sta
 
 ### Astral Inspection
 
-Developed/used by Yoshida-sensei to perform a deep inspection of a person. Does not trigger Astral defense barriers, as it is a read-only operation. Can query muscles in the body, revealing experiences the mind hadn’t perceived. Takes the form of a large green eye on the forehead with actively squiggly eyelashes. 
+Developed/used by Yoshida-sensei to perform a deep inspection of a person. Does not trigger Astral defense barriers, as it is a read-only operation. Can query muscles in the body, revealing experiences the mind hadn’t perceived. Takes the form of a large green eye on the forehead with actively squiggly eyelashes.
 
 ### Burst of Embers
 
@@ -183,12 +184,12 @@ Not strictly a projection in itself, but a method to store ANY projection which 
 
 #### Tsubasa’s place card magazine
 
-Tsubasa’s combat loadout contains a partitioned pouch of five stacks of cards. Common for all Esper combatants, the cards are used to supplement her own abilities, allowing the Esper to project many times without a toll on their stamina. 
+Tsubasa’s combat loadout contains a partitioned pouch of five stacks of cards. Common for all Esper combatants, the cards are used to supplement her own abilities, allowing the Esper to project many times without a toll on their stamina.
 
 * Stack Position 1 - ??? - A very common attack with multiple uses
-* Stack Position 2 - ??? - 
+* Stack Position 2 - ??? -
 * Stack Position 3 - Burst of Embers - Fire-based pulsating flames
-* Stack Position 4 - Blanks - Place cards containing a dud projection. Used for feints. 
+* Stack Position 4 - Blanks - Place cards containing a dud projection. Used for feints.
 * Stack Position 5 - Bubble Shield - Creates a spherical shield from the top down.
 
 Tsubasa uses the Place Card’s second projection slot to store a projection which acts as an initialization function. It can be different for different types of cards, but for Burst of Embers, Burst of Ember’s variables (intensity, delay before unsealing, and duration) are set depending on how Tsubasa throws the card. arm extension equals intensity. speed of finger flick equals delay before unsealing. rotation of wrist twist equals duration of burst.)
