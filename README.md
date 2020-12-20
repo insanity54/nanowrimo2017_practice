@@ -1,7 +1,7 @@
 # St. Ezreal’s School of Espers
 
 ![NaNoWriMo Winner](https://raw.githubusercontent.com/insanity54/nanowrimo2017_practice/master/NaNo-2017-Winner-Badge.png)
-![St. Ezreal’s Campus Map](https://raw.githubusercontent.com/insanity54/nanowrimo2017_practice/master/campus.png)
+![St. Ezreal’s Campus Map](https://raw.githubusercontent.com/insanity54/nanowrimo2017_practice/master/campus.jpg)
 
 
 [NaNoWriMo](https://nanowrimo.org/) is a challenge to write a 50,000 word novel in 1 month. This started started out as an early practice for that event, but I ended up converting the practice into a novel and finishing on the final day, Nov 30 2017. (50,000 words in a month is nuts! Props to those who can do that!) 
