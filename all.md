@@ -1,6 +1,6 @@
 ---
 layout:    myLayout
-title:	   "St. Ezreal's School of Espers"
+title:	   "Day 1"
 ---
 
 Nervously sitting at his desk, Marth glanced around the room to see that most of his peers were already relaxing with their pencils down. Five minutes and five seconds remained on the clock and Marth couldn't stop sweating.
@@ -11,7 +11,7 @@ Nervously sitting at his desk, Marth glanced around the room to see that most of
 
  "Shit!", Marth cursed. His exam not even half complete.
 
-Marth quickly flipped through the incomplete pages, barely eyeing the masses of text.
+Marth quickly flipped through the incomplete pages, barely eyeing the masses of text. 
 
 "There's no way. This much would take me another thirty minutes!"
 
@@ -37,7 +37,7 @@ Marth let out an embarrassed cough and blushed just the same. He closed his eyes
 
 Marth hadn't answered a single question in three minutes, too busy thinking about giving up and looking at cute girls.
 
-"This is crunch time!" Marth thought, trying to get himself amped up. But that alone wasn't enough. With half the exam remaining, and such little time, there was only one option remaining for success. The thing that got Marth into Esper studies in the first place, the thing that had gotten him into so much trouble, but so much fun...
+"This is crunch time!" Marth thought, trying to get himself amped up. But that alone wasn't enough. With half the exam remaining, and such little time, there was only one option remaining for success. The thing that got Marth into Esper studies in the first place, the thing that had gotten him into so much trouble, but so much fun... 
 
 Marth sat up straight with a stern look on his face, closed his eyes, and opened his mind's eye. Astral Projection. A world within the mind, able to be summoned by any human being. The basis for Esper abilities. In this world, time stands still, as the Astral reality becomes that of the user's design. There is nothing but one's self and blackness, until one's consciousness creates another thing. Marth had discovered this place by accident when he was young, bored, and lonely. Like many, Marth had created imaginary friends to keep himself company, but only after an accident did Marth actually migrate an Astral lifeform to the real world. It was an imperfect being, with it's soul tied to Marth himself, but it lived, walked and talked for a short time. A taboo, creating life, but he didn't learn that until later.
 
@@ -61,7 +61,7 @@ St. Ezreal's campus was lit up by the sun as students exited the Astral Science 
 
 "At least I finished, and those answers seemed Okay.", he consoled.
 
-The other students who had been taking the entrance exam were walking in the same direction. There were school uniforms of all the nearby highschools, as well as uniforms Marth had never seen before.
+The other students who had been taking the entrance exam were walking in the same direction. There were school uniforms of all the nearby highschools, as well as uniforms Marth had never seen before. 
 
 "Hey you!", an unfamiliar voice pitched in, Marth opening an eye to see.
 
@@ -83,11 +83,11 @@ There standing before him, was a long brown haired girl with arms crossed. She w
 
 Tanaka's expression changed from enraged to surprised, as she turned to see Shizuma's blushing face. Her escapade was over as she rushed over to Shizuma, grasping her on the shoulders.
 
-"Are you Okay, Shizuma? I didn't mean to make you blush. Please don't cry!", she pleaded as before she turned away from Marth. "We're not done here, I'll talk to you later!"
+"Are you Okay, Shizuma? I didn't mean to make you blush. Please don't cry!", she pleaded with Shizuma before she turned towards Marth. "We're not done here, I'll talk to you later!"
 
 The two scurried away and Marth sighed, relieved.
 
-"Actually, you _are_ done.", An man's voice echoed. Startled, Marth turned to see a tall slender man in the shadows. He wore dark flared pants, pointy shined shoes, a partially buttoned white long sleeve shirt with rolled up sleeves, and a black choker. His hair was silver, short and combed, with hair covering part of his face.
+"Actually, you _are_ done.", A man's voice echoed. Startled, Marth turned to see a tall slender man in the shadows. He wore dark flared pants, pointy shined shoes, a partially buttoned white long sleeve shirt with rolled up sleeves, and a black choker. His hair was silver, short and combed, with hair covering part of his face.
 
 "Who are you?", Marth questioned.
 
@@ -95,7 +95,13 @@ The two scurried away and Marth sighed, relieved.
 
 "You have been found guilty of cheating on your entrance exam. You will not be attending this Academy!"
 
----"Marth, you have been found guilty of cheating on the entrance exam using condemned Astral methods. Now you must die!", Aldo-sensei proclained, his expression going from stone faced to hysterical. His arm stretched towards Marth. The other students nearby stopped in their tracks, watching as the bizarre instructor made his threats.
+---
+---
+layout:    myLayout
+title:	   "Day 2"
+---
+
+"Marth, you have been found guilty of cheating on the entrance exam using condemned Astral methods. Now you must die!", Aldo-sensei proclained, his expression going from stone faced to hysterical. His arm stretched towards Marth. The other students nearby stopped in their tracks, watching as the bizarre instructor made his threats.
 
 Marth knew he was guilty, but what was this about condemned methods? With a dumbfounded look on his face, he took a step back as he processed what Aldo-sensei had just said.
 
@@ -175,7 +181,7 @@ Marth smilled his biggest smile yet. "Shizuma Mizu, 153cm, 90-65-89. Tanaka Aoi,
 
 The confrontation had caused quite the stir on campus. Students had gathered around in shock and awe and the fight they had just witnessed. From their point of view, a teacher had approached a student with death threats, the two disappearing for an instant before returning half a second later with a giant ball of electricity striking the student.
 
-Marth prepared to follow up with a punch with a metal gauntlet to Aldo-sensei's face, but before that could happen, another teacher arrived on the scene, breaking up the fight.
+Marth prepared to follow up with a punch with a metal gauntlet to Aldo-sensei's face. Before that could happen, another teacher arrived on the scene, breaking up the fight.
 
 "Aldo-sensei", the woman's voice interjected as she spread her arms to block Marth's view. "This is not how we do things at St. Ezreal's. You more than anyone should know we are different than _that place_."
 
@@ -184,6 +190,11 @@ Gritting his teeth, Aldo took a step back, relaxing his stance and closing his e
 "And he will. But using that transgression as an excuse to go off killing a new student is unacceptable.", The teacher barked back. Aldo looked away, letting out a "tsk".
 
 Marth looked up at the woman in front of him.  [To be continued]
+
+---
+layout:    myLayout
+title:	   "Day 3"
+---
 
 She was tall, incredibly fit, with a long blonde ponytail. She wore a variant of the long white combat dress of St. Ezreal's Esper operatives team. It incorporated a long sleeve button up shirt with padded shoulders and yellow cufflinks. A blue tie, and a hakama accented with blue and yellow. On her chest, an armored plate with an embossed Ezreal's standard, armor extending all the way up around her neck. The look on her face was stern.
 
@@ -203,7 +214,7 @@ Marth quit his bickering and stood up straight. "I just came here to take the en
 
 "I am not a spy. Ever since I was little, I've read about St. Ezreal's Academy. Espers, using only science and the power of human consciousness learn and practice to become a force for good. In my grandfather's time, St. Ezreal's operatives defended his village from invading magic users. During the last great flood, St. Ezreal's rescued my village. Becoming an Esper operative is my dream. I just wanted in so bad that I cheated with Hyper Dragon Eye. The test was stupid and everyone else was probably cheating anyway.", Marth passionately told his story.
 
-"I see. report to the administration building immediately." Tsubasa-sensei said as she loosened up a bit.
+"I see. report to the administration building immediately." Tsubasa-sensei said as she loosened up a bit. 
 
 Marth wasn't having it. "A moment ago, I could have died! I just want to go home."
 
@@ -289,111 +300,12 @@ As Marth approached the dormitory, his cheeks became rosy as he thought of a sil
 
 The only entrance celebration he would receive at St. Ezreal's, was the gong-like resonating sound made when his forehead collided with a hollow metal lightpost.
 
-Marth found the manager's room in the dorm and knocked on the door. Greeting him was [To be continued]She was tall, incredibly fit, with a long blonde ponytail. She wore a variant of the long white combat dress of St. Ezreal's Esper operatives team. It incorporated a long sleeve button up shirt with padded shoulders and yellow cufflinks. A blue tie, and a hakama accented with blue and yellow. On her chest, an armored plate with an embossed Ezreal's standard, armor extending all the way up around her neck. The look on her face was stern.
-
-"Report to the administration building immediately.", Tsubasa-sensei commanded Marth.
-
-Marth paused a moment to let what just happened sink in. Aldo-sensei wasn't testing Marth after all? A cold sweat broke out on Marth's forehead as he realized he could have just died.
-
-"What the hell, Aldo-bakka? You actually tried to kill me just now?", Marth began. "Nemesis of time? I used HYPER DRAGON EYE. H-Y-P-E-R D-R-A-G-O-N E-Y-E! Read it out!", Marth yelled in his defense.
-
-"Only a little brat like you wold make a childish name for such a dangerous projection. What are you, 12? Are you sure you're in the right place, the kindergarten is down the street.", Aldo snapped back, the two arguing like kids.
-
-"Quiet!", Tsubasa-sensei had had enough as she squinted her eyes in disgust. "What is your intention here?", She inquired.
-
-Marth quit his bickering and stood up straight. "I just came here to take the entrance exam."
-
-"That's a load of horse crap", Aldo responded. "You're obviously a spy, using a petty cheat as cover for stealing St. Ezreal's secrets."
-
-"I am not a spy. Ever since I was little, I've read about St. Ezreal's Academy. Espers, using only science and the power of human consciousness learn and practice to become a force for good. In my grandfather's time, St. Ezreal's operatives defended his village from invading magic users. During the last great flood, St. Ezreal's rescued my village. Becoming an Esper operative is my dream. I just wanted in so bad that I cheated with Hyper Dragon Eye. The test was stupid and everyone else was probably cheating anyway.", Marth passionately told his story.
-
-"I see. report to the administration building immediately." Tsubasa-sensei said as she loosened up a bit.
-
-Marth wasn't having it. "A moment ago, I could have died! I just want to go home."
-
-"No, you cannot leave this campus or I _will_ kill you.", Tsubasa-sensei threatened with angry eyes.
-
-"I can't leave?", Marth was confused.
-
-"That's right, you are under my watch now. Don't think you can escape either. Given what you've told me you know about this school, I have no doubts that you know what I'm capable of as the second pillar of St. Ezreal's. Consider yourself a prisoner of this Academy. Had you passed the exam, you would have earned a different title."
-
-She was right, Marth would be powerless against a second pillar. St. Ezreal's campus had five physical pillars, together forming a pentagon around the academy. These pillars were said to have been created using Esper projections, and powered a field which blocked Esper projections from traversing. A perfect barrier against astral attacks, and a shield to the secrets within. As tradition, five of St. Ezreal's finest were chosen to serve as a namesake pillar of St. Ezreal's. Together, the pillars of St. Ezreal form a council, police force, and commanders to the Esper operatives. Their mission is to serve and protect St. Ezreal's Academy.
-
-Not that Marth wanted to leave. Being here was his dream. Without a fuss, Marth headed to the administration building.
-
+Marth found the manager's room in the dorm and knocked on the door. Greeting him was [To be continued]---
+layout:    myLayout
+title:	   "Day 4"
 ---
 
-The administration building was smaller than Marth had imagined, and it bore a similar resemblance to the campus's border. Five marble pillars surrounding a circular, domed roof building. As he walked up the staircase and into the building, another peculiarity found him. There was only one room, spanning the entire radius of the circular structure. Shafts of light from outside shone down through several vents in the roof, and a bird could be heard flapping it's wings after taking flight from it's perch above. More pillars cast shadows along the domed walls, reaching several meters higher than the average person. In the center of the room was an elevated stage, with marble ruins of what was once more short pillars. Marth found himself approaching the stage, looking for a clue of what to do next. As he stepped foot on the platform, dust in the air gave way to a booming man's voice.
-
-"Watanabe, Marth?", A strange, monotone voice echoed in Marth's head.
-
-"Who's there?", Marth questioned as he looked around the room. Nobody was there, only the same vacant marble building was seen.
-
-"Watanabe, Marth?", Again the voice lacking in change of tone queried.
-
-This time, a pair of eyes appeared, opening up before Marth. As if made of fire or some kind of Astral energy, these eyes were featureless, lacking pupils, iris, sclera or eyelids. Amber in color, the eyes stared down at startled Marth, who had to stop himself from falling off the stage. This was advanced, but Marth knew a projection when he saw one.
-
-"I am Watanabe.", Marth replied.
-
-The fiery eyes closed, and everything around Marth went dark. Marth stood in complete nothingness.
-
-"Cryptic Isolation again?" Marth wondered as he searched for a bearing in the void. A moment of nothingness passed, before a vegetable garden came into view and the black receding. Carrot, tomatoes and peas neatly in rows, green stems glistening with water droplets from a nearby sprinkler. A cool summer day with nothing but tall plants in sight.
-
-The amber eyes returned and opened above a potato patch, the mysterious voice returning.
-
-"Planar Shift.", The radiant lens pair spoke. "An Esper injection, much like Cryptic Isolation, however your consciousness is not isolated within my own. Instead, we both have displaced to a different plane of existence. Here you are free to do as you please."
-
-Marth was relieved, yet curious why he was standing in a garden.
-
-"So who are you and what's up with the plants?"
-
-"Please forgive me for not introducing myself sooner. I am Kaito-sensei, first pillar of St. Ezreal's Academy. This is my garden.", The eyes gently fluctuated as he spoke, becoming smaller, lower, and comparing in size to a teenager's. A uniform and white pair of gloves faded into existence where a human body would have been to match the eyes. A head of short blue hair came into view above and behind the fire-like eyes, but no skin or body was present. The small stature of the teacher was revealed, but his actual face and body remained invisible.
-
-"Where is your body?", Marth wanted to know.
-
-"Oh, I left that somewhere else.", Kaito's voice became less booming than before, yet monotone as always. Kaito's uniform kneeled gracefully, careful to not dirty his white pant leg. The glove reached over and gently grasped a potato leaf.
-
-"This potato.", Kaito spoke, the amber eyes seemed to relax as they looked down at the plant. "One of the plants in my garden. It's my job as gardener to care for this plant, nurture it so it becomes big and strong."
-
-Marth didn't know if this kid was a creep or a god. Kaito continued.
-
-"Have you ever seen a Leptinotarsa decemlineata?", Kaito asked as he looked up at Marth, still grasping the leaf.
-
-"I don't even know what that is", Marth replied.
-
-"Colorado Potato Bettle. Potato bug. Both the larvae and adult beetle feed on the potato leaves. The damage they cause to the potato severely harm or even kill the potato.", Kaito said, again gently gazing at the root vegetable's leaves.
-
-"So what, you squish the bugs?", Marth was getting a little impatient and crossed his arms.
-
-Kaito's glove let go of the leaf and the figure stood.
-
-"Yes. I murder the beetles and their larvae so the plants have a chance to grow.", The fiery eyes looked at Marth's. "Which one are you, Marth, are you a bug or are you a vegetable?"
-
----
-
-Marth had remained in the Planar Shift with Kaito-sensei for some time. Kaito heard Marth's story of cheating on the exam.
-
-"What's the big deal about Hyper Dragon Eye, and why does that idiot Aldo keep calling it Nemsis of Time?", Marth asked Kaito's form.
-
-"Aldo was assigned to monitor the exam for Astral activity. You aren't the first to cheat in that way, you know.", Marth felt a little disappointed as Kaito continued. "Nemesis of Time is an astral projection in which the projector creates a gate to the fourth dimension, peering into another place in time."
-
-"Seeing the future?", Marth had to make sure he was understanding this correctly.
-
-"Yes. As you may know, a result of seeing the future can be completely benign, or it could tear a rift in the time space continuum." For example, a famous occurrence of such a rift was in the Edo period. A passionate man who's name has been dishonorably stripped from history books, saw into the future and witnessed his wife's death. Wanting to save his wife, he changed the conditions that would have led to his wife's demise, thereby saving her for a time."
-
-"For a time?", Marth knew there was a catch.
-
-"For a time. The man in his love for his wife, ultimately changed his wife's destiny that Kami-sama (God) had created for her. This upset Kami-sama greatly, and Kami-sama set out to restore the wife's destiny. Each time the wife was meant to die, the man saved her because he had repeatedly looked into the future. Each time the wife was saved, Kami-sama became more infuriated. Kami-sama, committed to impose his will, became forced to make the conditions of the wife's death even more terrible and hazardous to those around her. The man, passionate about protecting his wife, committed countless acts of heroism in her defense. Kami-sama was forced to resort to wide scale natural disasters resulting in mass destruction in order for the wife's destiny to be reached. Eventually, hundreds of thousands died, including the wife and the man. The authority to see the future is too much power for humans. It's use has been strictly forbidden in the Esper community, and those who use it are executed.
-
-@TODO soon dismissed him to the dormitory where he was to be assigned quarters. The sun was setting and the lamps above the walkways began to illuminate.
-
-"Ahhh, what a day", Marth thought to himself as he walked down the concrete path to the dorms. "I failed a test, almost got killed for failing a test, and now I get a new test to see if I'm worth keeping around long enough to fail the next test. This school sucks.", The bookbag held over his shoulder bounced a little as he walked with frown on face.
-
-As Marth approached the dormitory, his cheeks became rosy as he thought of a silver lining. "Mixed dormitories? Mixed _baths?_ Hmmm, this place is full of eccentric faculty, surely they _must_ have thought that a diverse living situation would result in the best possible rounding of an individual's emotional development!", Marth fantasized, no longer paying attention to what was in front of him.
-
-The only entrance celebration he would receive at St. Ezreal's, was the gong-like resonating sound made when his forehead collided with a hollow metal lightpost.
-
-Marth found the manager's room in the dorm and knocked on the door. Greeting him was [To be continued]A moment passed and Marth heard some fumbling behind the door, followed by a girl's voice.
+A moment passed and Marth heard some fumbling behind the door, followed by a girl's voice.
 
 "Just a minute!".
 
@@ -463,7 +375,7 @@ Marth kicked back, recounting the day's events. The fifth pillar of St. Ezreal's
 
 ---
 
-Marth awoke to a knocking at his door.
+Marth awoke to a knocking at his door. 
 
 "Five more minutes, onae-chan." Tired and groggy, Marth didn't remember where he was.
 
@@ -524,8 +436,13 @@ A vein seemed to pop on Tanaka Aoi's forehead, her face wrenching in anger.
 
 "At least address me properly, you inconsiderate bastard!", She said as she got physical, grabbing the back of Marth's head and pressing it into the table. Marth's arms tensing in the air.
 
-"Oww! What gives?" Marth cried
+"Oww! What gives?" Marth cried 
 
+ 
+---
+layout:    myLayout
+title:	   "Day 5"
+---
 
 as he resisted Tanaka's push.
 
@@ -541,7 +458,7 @@ Annoying or not, he was going to be seeing more of these two from now on, so it 
 
 "I am Watanabe Marth. It's been a little difficult since we met. How about we start over?", Marth started his diplomacy.
 
-Shizuma Miyu nodded her head twice with a confirming, "mhm, mhm."
+Shizuma Miyu nodded her head twice with a confirming, "mhm, mhm." 
 
 Tanaka Aoi clenched up and looked away again, blushing a bit as she was thrown off by his congeniality. It only lasted for a moment and she faced Marth to yell.
 
@@ -565,7 +482,7 @@ Resonant Wave, a basic projection which has hundreds of applications. Resonant W
 
 Marth squared up to the fountain, pushing both his palms outward in front of him. Marth closed his eyes and saw his naked self in the Astral realm, holding the same position. In this realm, he created a summoning circle in front of his hands, with symbols representing sinewaves, particles, and random movement. He increased the size of the summoning circle to match the size of the fountain, and opened his eyes, merging his Astral realm's reality into his own. The summoning circle now was in the real world, and Marth focused on the fountain past his bare arms and blue translucent summoning circle. Marth spoke the words, "Resonant Wave, I project!" and the summoning circle vibrated considerably. Slowly, the temperature of the fountain's water began to increase.
 
-"Let's turn you into some steamy hot steam!", Marth thought accelerating the water molecules would be good practice and he could tell from the bubbles that it was getting warmer. Just when Marth was getting ready to see steam rise from the display, he heard a girl yelp as if in pain.
+"Let's turn you into some steamy hot steam!", Marth thought accelerating the water molecules would be good practice and he could tell from the bubbles that it was getting warmer. Just when Marth was getting ready to see steam rise from the display, he heard a girl yelp as if in pain. 
 
 "AhhA!"
 
@@ -579,7 +496,7 @@ Marth wanted to call out, but couldn't draw attention to himself as he hid there
 
 "So hot!", Sato cried as she pushed a hand between her legs, the other still around her chest.
 
-Marth was confused. Did she overheat from running? Is she having a heart attack? Naked or not, if Sato-senpai was in danger, this was no time to be hiding.
+Marth was confused. Did she overheat from running? Is she having a heart attack? Naked or not, if Sato-senpai was in danger, this was no time to be hiding. 
 
 "Sato-senpai!", Marth jumped out from behind the bush, running towards his senior.
 
@@ -597,7 +514,7 @@ The sky went from dark to stormy, lightning striking the background as the wind 
 
 "Tell me, Marth, do you wish to die?", Sato asked as the world seemed to turn against Marth.
 
-Was Sato Hanna the type of girl to kill out of spite? Marth, stunned and afraid, could only beg for his life.
+Was Sato Hanna the type of girl to kill out of spite? Marth, stunned and afraid, could only beg for his life. 
 
 "I.. It's not what you think!", Marth pleaded. "It was an accident!"
 
@@ -617,7 +534,7 @@ The two reached the dormitory and Marth was thrown into the supply closet, still
 
 ---
 
-Marth awoke to a knock at his door. It was morning and Tsubasa-sensei had returned to see him off to work. The ropes from the night before had loosened, allowing Marth to shake free.
+Marth awoke to a knock at his door. It was morning and Tsubasa-sensei had returned to see him off to work. The ropes from the night before had loosened, allowing Marth to shake free. 
 
 "I need another uniform", Marth said through the door before Tsubasa could enter.
 
@@ -631,7 +548,7 @@ The two left the dorm building and headed towards the administration building. I
 
 "The school doesn't. It's on another plane.", sensei replied.
 
-"The administration building is empty for a reason. It's vacancy symbolizes raw potential. Just like a human mind, we could turn that space into whatever we wanted to make it. The students here have that same potential, they can become whatever they want to become. The building is empty on the inside, but we make of it a portal into different planes of existence."
+"The administration building is empty for a reason. It's vacancy symbolizes raw potential. Just like a human mind, we could turn that space into whatever we wanted to make it. The students here have that same potential, they can become whatever they want to become. The building is empty on the inside, but we make of it a portal into different planes of existence." 
 
 "That made no sense, sensei".
 
@@ -641,7 +558,12 @@ Marth sucked his thumb and rubbed his soft cotton blankey between his fingers. F
 
 "Look at all those pillars, mommy!", Marth used a third arm to point.
 
-"Snap out of it, Marth!", Tsuba-sensei was looking at Marth as he lay in the fetal position on the ground of the quarry. "It's the Admirite, it's amplifying your Esper abilities, you need to stay in control of your mind!""Admiriate? I think you mean Adamantium.", Marth slurred his words towards Tsubasa-sensei as he remained curled up.
+"Snap out of it, Marth!", Tsuba-sensei was looking at Marth as he lay in the fetal position on the ground of the quarry. "It's the Admirite, it's amplifying your Esper abilities, you need to stay in control of your mind!"---
+layout:    myLayout
+title:	   "Day 5"
+---
+
+"Admiriate? I think you mean Adamantium.", Marth slurred his words towards Tsubasa-sensei as he remained curled up.
 
 "Marth! Snap out of it!", Tsubasa-sensei gripped Marth's shoulders and propped him up before dealing him a swift slap to the cheek.
 
@@ -661,7 +583,7 @@ Marth's head began to hurt, althought it might have been from being kicked and s
 
 "So we're equivalent to being there, but we're also here. Could I move ten meters here, shift back to there, and I'd have moved ten meters there?", Marth could get technical too. Placing a hand on his knee, he rose to stand with sensei.
 
-"Normally, yes. But this plane's units of measurement are smaller than what you're used to. Ten meters here is roughly ten millimeters there.", Tsubasa-sensei was getting Marth up to speed in front of a large conveyor belt meant for loading dump trucks with earth.
+"Normally, yes. But this plane's units of measurement are smaller than what you're used to. Ten meters here is roughly ten millimeters there.", Tsubasa-sensei was getting Marth up to speed in front of a large conveyor belt meant for loading dump trucks with earth. 
 
 "Then that means you could make the inside of the administration building as large as you wanted!", Marth said excitedly.
 
@@ -697,7 +619,7 @@ Marth wondered if this was a joke, but then again, this was Tsubasa-sensei, too 
 
 "Do your best!", She said as she walked off, disappearing as she shifted planes.
 
-Marth was left alone with the rocks on the desolate planet,
+Marth was left alone with the rocks on the desolate planet, 
 
 ---
 
@@ -721,13 +643,13 @@ Back at the rock where Marth had been mining, Marth looked at the small pile of 
 
 "Could this be another test?", Marth wondered as he thought of a better way. An Esper should be able to mine this using only their mind.
 
-Marth eyed the pickaxe on the ground. A simple tool, with a wooden handle and a steel head. Using Matter Synthesis, Marth should be able to create such a basic instrument. Marth closed his eyes, expecting to envision his lonely self in the astral realm. Instead, Marth saw a burst of glowing blue light fluctuating in his mind's eye. The light pulsed over and over, several times a second and Marth became dizzy as he tried to see the Astral realm.
+Marth eyed the pickaxe on the ground. A simple tool, with a wooden handle and a steel head. Using Matter Synthesis, Marth should be able to create such a basic instrument. Marth closed his eyes, expecting to envision his lonely self in the astral realm. Instead, Marth saw a burst of glowing blue light fluctuating in his mind's eye. The light pulsed over and over, several times a second and Marth became dizzy as he tried to see the Astral realm. 
 
 "This must be the Admirite.", Marth hypothesized, opening his eyes and looking down at the rock. Indeed it's effects had made him halleucinate as he arrived here, and the effects could be felt now as Marth tried to create a stable projection.
 
 "This stuff is supposed to amplify Esper abilities, but all I'm feeling is interference!", Marth tried again, closing his eyes. The blue pulsing waves of light were too strong to ignore.
 
-"It's no use.", Marth resigned his efforts, plopping down to sit on the ground. "I can't work against this material."
+"It's no use.", Marth resigned his efforts, plopping down to sit on the ground. "I can't work against this material." 
 
 Marth considered going back to the old fashioned way, although finishing with that method today would be impossible. The Admirite's waves were crashing against Marth's consciousness like the sea against the shore.
 
@@ -753,7 +675,12 @@ Time seemed to stand still as a wave of blue hit Marth in his state of tranquili
 
 Marth felt like another thing was different about this projection.
 
-"The Admirite, perhaps?", Marth looked around at what was usually black, but this time a light blue. A feeling of comfort was present in the blue, but here there seemed to be something more.The Admirite provided a feeling of powerful natural forces, strong like a hurricane's wind yet peaceful like a flowing river. The feeling Marth felt was more like something within his own mind was out of place.
+"The Admirite, perhaps?", Marth looked around at what was usually black, but this time a light blue. A feeling of comfort was present in the blue, but here there seemed to be something more.---
+layout:    myLayout
+title:	   "Day 7"
+---
+
+The Admirite provided a feeling of powerful natural forces, strong like a hurricane's wind yet peaceful like a flowing river. The feeling Marth felt was more like something within his own mind was out of place.
 
 "A person?", Marth thought of one explanation, although he was sure he was alone on this rocky planet.
 
@@ -823,7 +750,13 @@ Marth saw an opportunity to slack off.
 
 "No, this quarry always faces the star, it never gets dark here."
 
-[tbc]"It never gets dark...", Marth thought it was weird how he had worked up such an appetite while the sun was still in the sky. "Appetite?" Marth questioned himself. He hadn't eaten all day, and the feeling of hunger had only just met him once he sat down to relax.
+[tbc]
+---
+layout:    myLayout
+title:	   "Day 8"
+---
+
+"It never gets dark...", Marth thought it was weird how he had worked up such an appetite while the sun was still in the sky. "Appetite?" Marth questioned himself. He hadn't eaten all day, and the feeling of hunger had only just met him once he sat down to relax.
 
 Marth eagerly agreed he was ready to return, and Tsubasa-sensei initiated phase shift. The two faded out of the mine, and into the empty Administration building of the school. Marth's stomache growled.
 
@@ -942,6 +875,10 @@ Tsubasa-sensei's expression didn't change. Marth expected her to leave him witho
 Tsubasa kept walking, pressing her metallic chestplate into Marth's outward arms. Tsubasa kept walking as Marth's demeaner switched from defensive to utterly dumbfounded. Tsubasa kept walking, as Marth stepped backwards until he was pinned against the back wall of his room. Marth let out a sound as the wind was knocked from him. Tsubasa stopped and her strong hands pressed against Marth's shoulders. Marth's arms were still stretched out, and now they were hovering on either side of Tsubasa's. Marth couldn't look her in the eyes, and stared down at the metal chestplate between their two bodies. Marth thought this might be hot if not for her metal armor, but quickly snapped back to reality.
 
 "What are you doing, sensei?!"
+---
+layout:    myLayout
+title:	   "Day 9"
+---
 
 "Look at me", Tsubasa said to Marth who was still looking down. Still confused and a little pissed off, Marth decided to look up.
 
@@ -1079,7 +1016,13 @@ Morning came, and Marth felt refreshed. The night before, Tsubasa-sensei had ass
 
 "It's too bad we had to create an exception in the X-cancelling protocol."
 
-Indeed, Tsubasa-sensei saw it necessary that the original Esper who used Marth as a proxy for Nemesis of Time still be able to access Marth's Astral Realm. Without Admirite, Marth would have no way of detecting the Esper's intrusion, so that job was left to Tsubasa-sensei.Marth sat on his potato sack bed as the morning light shone through the base of the supply closet door. Marth looked at the door, expecting Tsubasa to come knocking at any moment. Minutes passed in silence, and Marth began to wonder.
+Indeed, Tsubasa-sensei saw it necessary that the original Esper who used Marth as a proxy for Nemesis of Time still be able to access Marth's Astral Realm. Without Admirite, Marth would have no way of detecting the Esper's intrusion, so that job was left to Tsubasa-sensei.
+---
+layout:    myLayout
+title:	   "Day 10"
+---
+
+Marth sat on his potato sack bed as the morning light shone through the base of the supply closet door. Marth looked at the door, expecting Tsubasa to come knocking at any moment. Minutes passed in silence, and Marth began to wonder.
 
 "Where is she? Tsubasa-sensei is usually punctual.", Marth quickly ate his words as he remembered how her suppressed personality didn't match her rigid appearance. More minutes passed and Marth quit wondering if something had happened, and settled on the theory that she was just messing with him.
 
@@ -1176,6 +1119,11 @@ Marth looked up at Tanaka Aoi's grinning face. She held that expression for a mo
 Tanaka Aoi quickly composed herself, joining her hands together near her waist. "It's very nice to meet you, Matsumoto Shuu!", she said with a happy expression. It was like she was a different person, but Marth could see she was just trying to keep up appearances.
 
 "Tell me, Watanabe, I mean Matsumoto, what subjects will you be studying this quarter?", She asked joyfully, pausing with a smile to let Marth reply.
+---
+layout:    myLayout
+title:	   "Day 11"
+---
+
 "She must be onto me", Marth thought to himself. "Oh, this and that", he said aloud, dodging the question.
 
 "This and that? What kind of answer is that?", Aoi grinced her teeth and clenched a fist. It looked like she was going to throw another fit, but she stopped herself after looking from left to right, not wanting to make a scene. Tanaka collected herself and decided to ask a different question.
@@ -1296,7 +1244,13 @@ The two made their way to the cafeteria's western entrance. The campus's main pa
 
 The air conditioned cafeteria created a refreshing feeling. The two enjoyed green tea and snacks from the drink bar as they sit under the elegant brick vaulted ceilings. Marth gobbled mini muffins as fast as he could, in order to sustain himself until lunch. Shizuma laughed and sipped tea.
 
----"What class do you have next?" Shizuma asked Marth.
+---
+---
+layout:    myLayout
+title:	   "Day 12"
+---
+
+"What class do you have next?" Shizuma asked Marth.
 
 Marth paused, with muffins half chewed in his mouth. He hadn't thought that far ahead, as he was appreciating the moment of eating yummy snacks with Miyu. Marth quickly chewed his food and swallowed.
 
@@ -1404,12 +1358,10 @@ Marth stood up and sighed. His day of freedom had been cut short.
 
 
 ---
-
-
-
-
-
-
+---
+layout:    myLayout
+title:	   "Day 13"
+---
 
 Marth held his fighting stance and shifted his gaze from left to right, top to bottom. Aldo had just vanished from before him, and Marth expected Aldo's next move was to attack from Marth's blind spot.
 
@@ -1540,11 +1492,10 @@ Marth was fascinated. He inspected all parts of the card in his hand, comparing 
 "Think of it as a communication device. With that place card, I can get a hold of you from anywhere in the universe."
 
 "Cool."
-
-
-
-
-
+---
+layout:    myLayout
+title:	   "Day 14"
+---
 
 "Well then, I better get Aldo sensei into a gown." The doctor said as she looked back at the passed out teacher. Marth took that as his queue to get out of there and started for the door.
 
@@ -1644,9 +1595,10 @@ The drug fully dispensed into Subject 34's arm, and he started to feel it's effe
 "I think I'm going to be sick!", Subject 34 wanted to hold his stomache.
 
 "Stand by for transport.", The glassed man ignored the boy as he spoke through the intercom. A switch was flipped and the intercom's speakers let out a pop as they were powered off.
-
-
-
+---
+layout:    myLayout
+title:	   "Day 15"
+---
 
 The guard re-entered the room, along with another caped Esper. He wore a large brimmed hat and a black blindfold over his eyes. On the fabric, the outline of a single large eye was drawn. As they entered, the glass to the observation room went opaque, tinted dark by a embedded layer of liquid crystal.
 
@@ -1756,6 +1708,11 @@ Aldo walked to the door of the cell, looking at himself through his reflection i
 
 
 ---
+---
+layout:    myLayout
+title:	   "Day 5"
+---
+
 Subject 34's hair had been permanently dyed silver from repeated high doses of Esperin. Not only physical, the chemical left psychological scars that might never be reversed.
 
 A guard approached the cell door and called out.
@@ -1881,6 +1838,10 @@ The two inferiers looked back at 34, confirming his orders.
 34 was becoming impatient and the Esperin withim him kindled a raging fury.
 
 "I'm going to snuff out every last one of the weak! For the clan!" 34 yelled at the top of his lungs before sprinting after his subordinates.
+---
+layout:    myLayout
+title:	   "Day 17"
+---
 
 34's subordinates quickly advanced toward the center of the stronghold. The surrounding buildings were razed, walls smashed as if by gigantic wrecking balls. In other places, fire was ablaze, disintegrating dwellings from the top down.
 
@@ -1999,6 +1960,10 @@ The two Espers reached the top of the wall as the siren continued. A bloody mess
 "Disgusting." 34 looked at the fallen humans. "I can't wait to squash them _all_." 34 said with a look of distaste on his face. Now with clear sight of the citadel's interior, his dream was feeling more real than ever.
 
 At the ground level, a large church     
+---
+layout:    myLayout
+title:	   "Day 18"
+---
 
 stood at the center of the inner sanctum. Surrounding it, large buildings which likely served as armories and housing.
 
@@ -2108,7 +2073,13 @@ As he ordered Bandana, 34 stepped towards the armored woman. Even without Esper 
 
 "She's frozen?", 34 tried to rationalize what was going on, but there was no rationalizing this. The amount of abilities the armored woman posessed was astounding. "The clan has the strongest Espers in the world, no other group has stood up to us. Are you a traitor?" 34 demanded.
 
-"You're probably right about your clan, but I'm not from your world. I'm from a diffent plane.", The woman replied with arms crossed. "Your clan has been terrorizing the vulnerable for decades. It took years, but they were able to reach out to us for aid. My Name's Tsubasa Hinata, fifth pillar of St. Ezreal's. Your clan's abominable reign of fear ends today.""A different plane? That's a lie!" 34 said in shock, beginning to hyperventilate. He had barely avoided strangling his own servant because of her, and there was no telling what she was about to do next. Tsubasa was on a whole other level.
+"You're probably right about your clan, but I'm not from your world. I'm from a diffent plane.", The woman replied with arms crossed. "Your clan has been terrorizing the vulnerable for decades. It took years, but they were able to reach out to us for aid. My Name's Tsubasa Hinata, fifth pillar of St. Ezreal's. Your clan's abominable reign of fear ends today."
+---
+layout:    myLayout
+title:	   "Day 19"
+---
+
+"A different plane? That's a lie!" 34 said in shock, beginning to hyperventilate. He had barely avoided strangling his own servant because of her, and there was no telling what she was about to do next. Tsubasa was on a whole other level.
 
 "It's no lie. 200 years ago, St. Ezreal's Academy developed the ability to traverse plains.", she explained. "We've been conducting humanitarian aid ever since."
 
@@ -2251,6 +2222,11 @@ A nurse entered the room, adjusting the bed to the seated positon and removing t
 "That's all fine and good. But when will I get a rematch?" Aldo was itching for another fight.
 
 "You're free of The Clan now, but you'll have to get used to how we do things here. We're the good guys! Once you get up to speed, you can expect a rematch." Tsubasa smiled.
+---
+layout:    myLayout
+title:	   "Day 20"
+---
+
 Aldo sensei's eyes opened slowly, revealing the end of his hospital bed, long table with a sink, and storage cabinets full of supplies. He was tucked under a blanket, wearing a hospital gown.
 
 His eyes widened, letting in the whole view of the room. To his left, Tsubasa-sensei sat in a chair next to the bed with her arms crossed and eyes closed. Her head was drooped and she was breathing lightly.
@@ -2385,7 +2361,13 @@ Tsubasa-sensei continued walking with her back to the crowd.
 
 Marth sat behind, finishing the last of his meal. Many of the students in the cafeteria were outraged, but Marth chomped his dessert without issue.
 
-"I picked the right year to cheat on the entrance exam!" Marth chuckled as he wiped his hands on his napkin.Marth had returned the trays from his table and left the cafeteria. With the mysterious girl's binoculars in his book bag, Marth passed by the yard. The water from the fountains was glistening in the sun beyond the tall hedges. With the administration building to his right, Marth glanced over, wondering about the teacher he had carried there.
+"I picked the right year to cheat on the entrance exam!" Marth chuckled as he wiped his hands on his napkin.
+---
+layout:    myLayout
+title:	   "Day 21"
+---
+
+Marth had returned the trays from his table and left the cafeteria. With the mysterious girl's binoculars in his book bag, Marth passed by the yard. The water from the fountains was glistening in the sun beyond the tall hedges. With the administration building to his right, Marth glanced over, wondering about the teacher he had carried there.
 
 Marth looked to the Astral Science Studies building, the same building he had taken the entrance exam from.
 
@@ -2502,6 +2484,10 @@ Yoshida-sensei looked over to Marth as the pail hit the floor with a echoey thud
 "Starry notif happened!" Marth pointed to the pail with the glowing hot card. "Are you _trying_ to kill me?"
 
 "My oh my!" Yoshida walked to the pail, staring down at the heated content.
+---
+layout:    myLayout
+title:	   "Day 22"
+---
 
 "This isn't right!", Yoshida sensei said with a concerned look on her face. "Starry Notif only reaches 44° celcius and expires in 10 seconds!"
 
@@ -2610,6 +2596,10 @@ Marth collapsed to the floor at the mental burden.
 Marth snapped back, picking up the card from the scortched bucket.
 
 "So someone did something to this place card?" Marth held the card in his hand, looking over it's artistic face.
+---
+layout:    myLayout
+title:	   "Day 23"
+---
 
 "Well, that's the strange thing." Yoshida said, looking up at the ceiling. "Place Cards are difficult, if not impossible to alter."
 
@@ -2760,6 +2750,10 @@ A moment of silence passed. Marth looked at Tsubasa who was trying to avoid eye 
 Marth promptly stood, respectfully lowering his head to bow at Tsubasa.
 
 "Thank you, Tsubasa-sensei! I will do my best!"
+---
+layout:    myLayout
+title:	   "Day 24"
+---
 
 ---
 
@@ -2916,8 +2910,10 @@ Tsubasa held her calm look as the bubble's exterior slid away, becoming nothing 
 "Get ready to jump!" Tsubasa commanded Marth once more. The dish became a plate at it's apogee, reaching the perfect height to be level with the planet's surface above the quarry.
 
 Tsubasa hopped forward, grabbing Marth by the back of his shirt.
-
-
+---
+layout:    myLayout
+title:	   "Day 25"
+---
 
 "Ahh!" Marth was surprised at Tsubasa's actions as she pulled Marth onto solid ground from the vanishing bubble. Marth fell to his hands and knees, shaking from the experience.
 
@@ -3053,7 +3049,13 @@ Tsubasa bent her knees and leaned slightly forward, reaching her right hand acro
 
 Tsubasa drew a card from the pouch's opening concealed by her left hand so fast that Marth couldn't see the artwork. Throwing the card out at Marth with no twist of the wrist, the card halted instantly after leaving Tsubasa's fast flicking fingers, sending a massive burst of hot air flying towards Marth.
 
-Marth braced, not having prepared a defense for such an attack.  The air blew Marth's hair and clothes back as the hot gust kicked up dirt and pebbles. Marth held his arms in front of his face, guarding from the debris.
+Marth braced, not having prepared a defense for such an attack.  
+---
+layout:    myLayout
+title:	   "Day 26"
+---
+
+The air blew Marth's hair and clothes back as the hot gust kicked up dirt and pebbles. Marth held his arms in front of his face, guarding from the debris.
 
 "A wind place card?" Marth thought to himself has he tried to keep track of Tsubasa's inventory.
 
@@ -3180,7 +3182,13 @@ Marth laughed uncomfortably. "The battle would be over very quickly."
 
 "You mean just by being aware of the fact that I may direcly alter your personal reality, your personal reality is safe?"
 
-"That's all it takes."Tsubasa explained.
+"That's all it takes."
+---
+layout:    myLayout
+title:	   "Day 27"
+---
+
+Tsubasa explained.
 
 Marth closed his hands, cutting off the summoning circle's presence along with Resonant Wave. Marth blinked his eyes and put one hand to his chin.
 
@@ -3304,7 +3312,13 @@ Tsubasa turned to Marth, smiling. "It's a secret!"
 
 "That's all I need." Marth crossed his arms as well. "Now, how about teaching me how to make place cards? I'm starting to see the benefit."
 
-"I suppose I can do that, but only on one condition.""A condition?" Marth wondered.
+"I suppose I can do that, but only on one condition."
+---
+layout:    myLayout
+title:	   "Day 28"
+---
+
+"A condition?" Marth wondered.
 
 "Up until the competition, every moment of free time you have, during every waking hour, you must spend practicing your projections."
 
@@ -3447,6 +3461,10 @@ Marth placed HYPER-DRAGON-EYE into a Place Card.
 Marth placed Atomic Relegation into a Place Card.
 
 "Again! You'll need lots of those." Tsubasa guided Marth as he placed multiples of his repertoire into cards.
+---
+layout:    myLayout
+title:	   "Day 29"
+---
 
 "Tsubasa, how many am I to make?" Crouched in front of his stack of blank cards, marth looked up at his teacher.
 
@@ -3584,7 +3602,232 @@ Tsubasa and Marth ate in the cafeteria under it's vaulted brick ceiling. It was 
 
 "Why's she in such a hurry?" Marth wondered, poking a bit of uneaten food with his chopsticks. "She didn't even remove her backpack to eat." Marth grabbed the remeaing morsel and immediately put it in his mouth.
 
-Marth closed his eyes for a moment, enjoying the moment as he chomped his food. From the kitchen he could hear the clinks and clangs of pots and pans rattling together in the sink as they were cleaned, and freshly cleaned ceramic dishes being stacked at the ready. From the nearby tables, the voices of students as they chattered, laughing at jokes and pondering difficult textbook questions. The sound of small footsteps drew near as Marth's jaw worked his food like a cow chewing a wad of grass.
+Marth closed his eyes for a moment, enjoying the moment as he chomped his food. From the kitchen he could hear the clinks and clangs of pots and pans rattling together in the sink as they were cleaned, and freshly cleaned ceramic dishes being stacked at the ready. From the nearby tables, the voices of students as they chattered, laughing at jokes and pondering difficult textbook questions.
+---
+layout:    myLayout
+title:	   "Day 30"
+---
+
+The sound of small footsteps drew near as Marth's jaw worked his food like a cow chewing a wad of grass.
+
+"You there! I've been looking all over for you. Where on earth have you been?!" An girl's upset voice rang in Marth's ears.
+
+With food still in his mouth, Marth opened one eye to see Tanaka Aoi with an angry expression. Hands on her hips Tanaka was bent over, leaning towards him.
+
+"Well, what do you have to say for yourself? Keeping a lady waiting, what gives?" Tanaka persisted.
+
+Marth finished chewing his food and swallowed.
+
+"I'm sorry, why are you here?" Marth was enjoying his peace and quiet up until now.
+
+Tanaka looked surprised, and lessened her lean. "W.. w.. ww.. we..." Tanaka struggled to maintain eye contact as she spoke. She pressed her two index fingers together repeatedly.
+
+"We... We had a date!" Tanaka blurted out as she turned red from embarrasement. "Don't tell me you forgot..." Tanaka bashfuly continued as she slowly pressed her fingers together again.
+
+"A DATE!?" Marth tensed up in his seat, impacted by what he had just heard. His knees hit the underside of the table, knocking his plate and his chopsticks into the air.
+
+"Wh.. Why are you acting so surprised?" Tanaka tried to hide her embarrasement as she waved her hands at her side.
+
+"I'm not sure what's going on..." Marth was utterly confused at Tanaka's claim. "Are you messing with me? Did Tsubasa put you up to this?"
+
+Tanaka grumbled, increasing the pitch of her voice until she seemed to burst. With her head bowed, she put on her usual angry face. "Watanabe, it's me who's being messwed with! I should have known this was a prank." Aoi threw a neatly folded piece of paper at Marth, which landed atop his empty plate. "Well joke's on you because I was just kidding. As if I would go on a date with you. Idiot!" Tanaka stormed off, hiding her face as a tear rolled down her cheek.
+
+"What was that all about?" Marth thought to himself as he picked up the folded piece of paper. Unfolding the document revealed a hand-written note.
+
+"Dear Tanaka Aoi,
+
+I have been watching you for some time, and I think the ribbon you wear in your hair is super cute. I would love to have you join me for a night on the town. I hear the nearby festival has some wonderful crepes! It's this Friday evening. If you would join me, I'll be waiting in the cafeteria.
+
+Yours Truly,
+
+
+Watanabe Marth"
+
+
+Marth read aloud the note in shock and disbelief.
+
+"I didn't write this!"
+
+Marth stood up, looking quickly from left to right for any sign of Tanaka.
+
+"I have to apologize. She seemed really upset."
+
+Marth grabbed his empty tray, hastily returning it to a stack above the garbage cans. With the note in hand, he took off running towards the last place he had seen Tanaka, determined to find her.
+
+Marth's hands met the metal handle of the heavy glass door with a slap. The south exit of the commons building faced the main road to the campus. Swinging the door open, Marth saw the main campus parking lot, well lit by rows of elegant street lamps below the night sky. The dark colored asphant was painted with fresh yellow parking stall lines. Beyond it, the main road, sparingly populated by headlights of automotive traffic. The bus stop Marth had arrived at the school from was at the parking lot's outer fringes, and there was Tanaka, sitting alone at a bench at the stop.
+
+A bus was rolling up, slowing down to a jot. Tanaka stood up, waving to the driver.
+
+"She's boarding the bus!" Marth gasped seeing the bus come to a stop as it's brakes noisily squaled. Marth dashed forward, sprinting towards the bus.
+
+"I'll never make it!" Marth worried as Tanaka stepped foot onto the bus from the curb. "Wait for me!" Marth called out, as Tanaka stepped up the short stair into the elevated bus cabin. Just then Marth remembered the day's training as he reached for his stack of place cards. Holding the cards in front of himself as he ran, he sifted through the pile, selecting two of the most appropriate for the situation.
+
+"Thank you, Tsubasa!" Marth threw one card after another in front of him. The cards locked in place, vibrating. From the furthest forward, a bubble shield began forming from below, as Marth slipped past the ascending barrier into the bubble's interior. An explosion of fiery heat blasted out from the second card to the rear, jettisoning the enclosed bubble shield forward with Marth in it.
+
+Not graceful in the least, Marth tumbled in the ball like the rattle of a pet's play toy as it was lobbed towards the bus, crashing to the ground and rebounding like a basket ball. The bus's accordion door was closing as it's air brakes were released. Tanaka took a seat, and Marth's bubble shield ball smacked against the side of the bus with the force like an angsty teenager trying to retrieve their stuck candy from a vending machine.
+
+The bus driver hit the brakes, retarding it's launch. The driver looked to the side of the bus as Marth's Bubble Shield faded away, Marth dizzilly stumbing through the door.
+
+"Sorry." Marth apologized to the driver as he walked up the stairs and displayed his High School ID.
+
+The driver nodded and Marth proceeded down the aisle of the bus. Marth looked at the faces of the passengers. A few elderly in front, a business man, a mother and her child in the middle. Marth continued towards the predominantly empty rear, where Tanaka was seen looking at the floor.
+
+"The bus is starting" The bus driver commented over the intercom as it lurched to a start. Marth grabbed the overhead railing as he approached the girl.
+
+"Tanaka, I'm sorry!" Marth called out, lowering his head to a bow as politely as possible while still grasping the overhead railing and being jostled back and forth in the moving bus.
+
+Tanaka looked up with big eyes, then quickly hid her face to wipe away a tear. Composing herself, Tanaka spoke again.
+
+"Why did you follow me? I don't want to be with an idiot like you!" Tanaka made an angry face.
+
+"Tanaka, I'm sorry!" Marth repeated himself, persisting his bow. He rose, handing the paper out with both hands. "I didn't write this. We were both played. I'm sorry."
+
+With arms crossed, Tanaka closed her eyes, lifting her chin and facing the window. "Hmm! It's not like I would be bothered by something like this. It is you after all, a complete worthless idiot." Tanaka was beginning to sound like herself again.
+
+"So you're not upset?" Marth questioned.
+
+"Not at all! It's nothing but an inconvenience." Tanaka peeked at Marth with one eye, before quickly closing it again to avoid eye contact. "But it is rather inconvenient. No, it's really inconvenient! I demand compensation!" Tanaka made full eye contact with Marth, scowling as she changed her mind.
+
+"Compensation? You mean money?" Marth wasn't expecting this.
+
+"I demand a date!" With a frown, Tanaka held her eye contact.
+
+"A date? But that wasn't my writing!" Marth reminded her, showing an expression of concern.
+
+"Doesn't matter! I was promised crepes, and now I'm not going to get them. Surely you aren't going to back out now? After you have already taken responsibility?" Tanaka squinted, half disgusted at the potential folly Marth was being given the chance to make.
+
+"Ok, ok! I'll get you some crepes!" Marth was already waist deep in this muddy situation, this was no time to turn tail and run.
+
+"Yay!" Tanaka smiled for what seemed like the first time, giving off a rosy red aura of genuine delight.
+
+"Whoah." Marth thought to himself as he took the seat next to Tanaka. "She's actually more cute than the ribbon." Marth eyed her blue ribbon holding her long brown hair.
+
+Tanaka lifted her feet one after another, happily swinging them forward in the limited space behind the next row. "C-re-p-s! Crepes crepes crepes!" she softly sang with a smile.
+
+Marth chuckled as the bus drove down the campus hill towards the city. The road curved through patches of trees before emerging to an open view of the city below the barriered road shoulder.
+
+"Look at the lights, they're so pretty!" Tanaka's eyes lit up as she stared at the shining populous.
+
+"I've never seen the city from this vantage point." Marth thought out loud as the bus cruised along the hillside next to a stone retaining wall.
+
+"Really?" Tanaka wondered. "Have you only left campus during the day?"
+
+Marth wondered for a moment before feeling a sinking feeling in his stomach. Since his arrival at the start of the semester, under the threat of death, he hadn't been allowed to leave.
+
+"Yeah, something like that." Marth laughed uncomfortably. "Tsubasa's going to kill me!" Marth thought to himself as a cold bead of sweat formed on his forehead.
+
+"Look! There's the festival! The whole street is lit up!" Tanaka pointed down at a street lit up brighter than the rest. The city grid shown bluish white light, but the festival seemed to glow a firey amber hue.
+
+Marth looked at Tanaka who was already having a good time in the bus. "It'll probably be fine." Marth thought to himself. "Although I did make a deal to learn Place Cards, I suppose I should keep my end of the bargain." Marth blinked for a moment, projecting Hyper Dragon Eye at the festival below.
+
+"Do you think there will be fireworks?" Tanaka asked Marth with a smile.
+
+Marth tried to shove the remote image Hyper Dragon Eye was showing him into the back of his mind, continuing the projection although focusing on the girl next to him.
+
+"Yeah, I think so." Marth answered with surety as his view through Hyper Dragon Eye conveniently came across pyrotechnicians making the final preparations of a grand spectacle.
+
+"Ooooo, so cool! I wish I had brought yukata!" Tanaka looked back through the window at the incandescent lights.
+
+The bus zig-zagged through the hills to the city below, where it shortly stopped at the street of the festival.
+
+Tanaka and Marth departed the bus, thanking the driver.
+
+The two walked side by side, wearing matching school uniforms of white, blue and yellow. Portable vendor stalls lined the street, brightly colored by amber coloured lamps.
+
+"Would the young couple like to try a game? Land the ping pong ball in a jar and win a stuffed toy for the girl!" An boney faced attendant with large moles called out to Marth. The stall had a large table lined with small neck green glass bottles.
+
+Marth blushed at the comment as Tanaka hid behind him.
+
+"Just keep walking!" Tanaka whispered in Marth's ear. "He's scary!"
+
+Marth looked at Tanaka who was hiding her face from the man, then at the attendant who was beckoning them to play.
+
+"Come on now, you look like a strapping young man.
+Three tries for five dollars. Twelve tries for ten!" The attendant smiled from ear to ear.
+
+Tanaka buried her face in Marth's back.
+
+"No, thank you!" Marth replied to the man, then turned and grabbed Tanaka by the wrist, dragging her behind him as he quickly walked away from the booth.
+
+Tanaka kept her gaze low to the ground but smiled as she followed Marth through the crowd.
+
+"Are you alright?" Marth asked as he slowed his pace and looked back at Tanaka.
+
+Tanaka pulled back her hand from Marth's grip, shaking her head and waving her freed hand in front of her face.
+
+"No problem! It was nothing." Tanaka put on a brave face before smiling.
+
+"Well, we're here!" Marth gestered to the stall they had arrived at.
+
+"Crepes!" Tanaka's eyes widened at the smell wafting from the dazzling yellow colored tent. A smiling curly haired cook was pouring a ladel of batter onto a hot circlar griddle.   
+
+The inviting aroma from the cooking pan hit Marth's nostrils. In the mouthwatering moment, it took all of Marth's concentration to upkeep Hyper Dragon Eye in the back of his mind.  
+
+Captivated by the essence, Marth immediately turned to Tanaka.
+
+"Leet's order right away!"
+
+The two placed their orders and Marth footed the bill. Crepes in hand, the two found a place to sit and eat.
+
+As the fireworks began to shoot into the air from the adjoined park, Marth and Tanaka bit into their flavorful morsels and smiled.
+
+"So pretty!" Tanaka looked at the night sky, awed by the pinks, blues, and greens the mortar shells produced above the horizon.
+
+Marth chewed a part of his crepe and smiled at the double firework scenes his own eyes in combination with Hyper Dragon Eye were affording him. With Hyper Dragon Eye, Marth had a front row seat, bare meters from the exploding mortar tubes.
+
+Marth enjoyed the moment of peace, the first of it's kind since he had been imprisoned at St. Ezreal's. It was nice to leave the campus, but he wasn't running. He would be returning to the academy shortly of his own free will.
+
+"I'm ready to take on the competition." Marth spoke to himself, his voice concealed under the loud crackling burst of burning magnesium as it lit up the sky. "I'm not going to lose. I can do this. I can do anything."
+
+Marth leaned back in the park bench next to Tanaka as she happily ate her crepe.
+
+Under the lights in the dark sky, a short figure walked between Marth and his view of the show, stopping in front.
+
+"Hey, what's wrong with your head?" The figure asked, voice partially obscured by the booms.
+
+Marth sat up, curious as to who would be making a conversation at this moment. The path on which she stood wasn't well lit, but Marth made out her features. It was a girl, short, with messy black hair. Marth had met this girl before.
+
+"It's you! Oh, hey!"
+
+Tanaka sat up as well, curious as to who Marth was talking to.
+
+"Marth, do you know this girl?"
+
+The girl didn't seem to be in a good mood today, and Marth wondered if it had to do with their last meeting.
+
+"Yes, Tanaka, I borrowed her binoculars. This is... Uh well I'm not sure of her name?" Marth looked to the girl who's hair was partially covering her face. With one eye, the girl was glaring at Marth, brooding.
+
+"I'll ask you again. What's wrong with your head?"
+
+"Watanabe?" Tanaka turned to Marth, then back to the girl, then back to Marth.
+
+"Um, I'm not sure I understand?" Marth was equally confused at the question. Marth's curiosity of the girl drew his own Hyper Dragon Eye to a second viewpoint of her, from the sky at her back.
+
+The girl stepped forward into the light, revealing her dark colored, poorly fitting t-shirt and brown jeans. Her hands made fists her side.
+
+"Quit fucking with me." The girl spoke brashly, gaze locked with Marth's. She blinked, and simultaneously a red glowing spear seemed to shoot from her hand, projecting upwards and directly into Marth's floating Hyper Dragon Eye.
+
+The spear struck the invisible eye, sending a shock of pain into Marth's mind as if his own eye had been penetrated.
+
+"AHHHHHGHHHHH!!!" Marth cried out, standing up and holding his hands to his face.
+
+"What's wrong!?" Tanaka rushed over to Marth, staring back and forth between Marth and the girl.
+
+"What is this, you bitch!" Tanaka demanded of the girl as she put on her angry face. "Who are you and what do you want?"
+
+Marth blinked several times, realizing his real eyes were unharmed. With his Hyper Dragon Eye dispelled, he focused on the girl.
+
+"It was you who was sneaking in my room the other day, weren't you? What's wrong with my head? What's wrong with yours! I want to know too, who the hell are you?"
+
+The girl tensed her hands again, making a fist. She made a scowl before her reply.
+
+"I'm Nishi Hotaru. Seems like someone closed the Back Door to your Astral Realm. I left something in there, and I'm going to need it back."
+---
+layout:    myLayout
+title:	   "Day 31"
+---
+
+The sound of small footsteps drew near as Marth's jaw worked his food like a cow chewing a wad of grass.
 
 "You there! I've been looking all over for you. Where on earth have you been?!" An girl's upset voice rang in Marth's ears.
 
